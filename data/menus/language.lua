@@ -161,7 +161,16 @@ end
 
 function language_menu:on_joypad_button_pressed(button)
 
-  return self:on_key_pressed("space")
+  -- SWITCH specific
+  -- A
+  if button == 0 then
+    return self:on_key_pressed("space")
+  -- MINUS
+  elseif button == 5 then
+    return self:on_key_pressed("escape")
+  else
+    return false
+  end
 end
 
 function language_menu:set_cursor_position(cursor_position)

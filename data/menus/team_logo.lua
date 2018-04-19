@@ -206,7 +206,11 @@ end
 
 -- Joypad pressed: skip menu.
 function team_logo_menu:on_joypad_button_pressed(button)
-  if button == 1 then
+  -- SWITCH specifics
+  -- MINUS
+  if button == 5 then
+    return team_logo_menu:on_key_pressed("escape")
+  else
     return team_logo_menu:try_skip_menu()
   end
 end

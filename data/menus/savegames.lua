@@ -93,6 +93,12 @@ function savegame_menu:on_joypad_button_pressed(button)
 
   local handled = true
   if not self.finished then
+    -- SWITCH specific
+    -- MINUS
+    if button == 5 then
+      return self:on_key_pressed("escape")
+    end
+
     -- Phase-specific joypad_button_pressed method.
     local method_name = "joypad_button_pressed_phase_" .. self.phase
     handled = self[method_name](self, button)
@@ -406,7 +412,13 @@ end
 
 function savegame_menu:joypad_button_pressed_phase_select_file(button)
 
-  return self:key_pressed_phase_select_file("space")
+  -- SWITCH specific
+  -- A
+  if button == 0 then
+    return self:key_pressed_phase_select_file("space")
+  else
+    return false
+  end
 end
 
 function savegame_menu:direction_pressed_phase_select_file(direction8)
@@ -482,7 +494,14 @@ end
 
 function savegame_menu:joypad_button_pressed_phase_erase_file(button)
 
-  return self:key_pressed_phase_erase_file("space")
+  -- SWITCH specific
+  -- A
+  if button == 0 then
+    return self:key_pressed_phase_erase_file("space")
+  else
+    return false
+  end
+
 end
 
 function savegame_menu:direction_pressed_phase_erase_file(direction8)
@@ -554,7 +573,13 @@ end
 
 function savegame_menu:joypad_button_pressed_phase_confirm_erase(button)
 
-  return self:key_pressed_phase_confirm_erase("space")
+  -- SWITCH specific
+  -- A
+  if button == 0 then
+    return self:key_pressed_phase_confirm_erase("space")
+  else
+    return false
+  end
 end
 
 function savegame_menu:direction_pressed_phase_confirm_erase(direction8)
@@ -692,7 +717,14 @@ function savegame_menu:key_pressed_phase_options(key)
 end
 
 function savegame_menu:joypad_button_pressed_phase_options(button)
-  return self:key_pressed_phase_options("space")
+
+  -- SWITCH specific
+  -- A
+  if button == 0 then
+    return self:key_pressed_phase_options("space")
+  else
+    return false
+  end
 end
 
 function savegame_menu:direction_pressed_phase_options(direction8)
@@ -914,7 +946,13 @@ end
 
 function savegame_menu:joypad_button_pressed_phase_choose_name(button)
 
-  return self:key_pressed_phase_choose_name("space")
+  -- SWITCH specific
+  -- A
+  if button == 0 then
+    return self:key_pressed_phase_choose_name("space")
+  else
+    return false
+  end
 end
 
 function savegame_menu:direction_pressed_phase_choose_name(direction8)
