@@ -789,84 +789,86 @@ file{ path = "items/world_map.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "languages", license = "Mixed" }
 file{ path = "languages/de", license = "Mixed" }
 file{ path = "languages/de/images", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/de/images/action_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/de/images/action_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/de/images/floors.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "languages/de/images/gameover_menu.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/de/images/pause_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/de/images/pause_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/de/images/pause_submenus.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/de/images/sword_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/de/images/title_screen_initialization.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/de/images/sword_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/de/images/title_screen_initialization.png", author = "Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/de/text", author = "Elenya", license = "CC BY-SA 4.0" }
 file{ path = "languages/de/text/dialogs.dat", author = "Elenya", license = "CC BY-SA 4.0" }
 file{ path = "languages/de/text/strings.dat", author = "Elenya", license = "CC BY-SA 4.0" }
 file{ path = "languages/en", license = "Mixed" }
 file{ path = "languages/en/images", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/en/images/action_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/en/images/action_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/en/images/floors.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "languages/en/images/gameover_menu.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/en/images/pause_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/en/images/pause_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/en/images/pause_submenus.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/en/images/sword_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/en/images/title_screen_initialization.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/en/text", author = "Alex_XelA, Rypervenche, Jeff, bcallah@openbsd.org", license = "Mixed" }
+file{ path = "languages/en/images/sword_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/en/images/title_screen_initialization.png", author = "Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/en/text", author = "Alex_XelA, Rypervenche, Jeff, bcallah@openbsd.org", license = "CC BY-SA 4.0" }
 file{ path = "languages/en/text/dialogs.dat", author = "Alex_XelA, Rypervenche, Jeff, bcallah@openbsd.org", license = "CC BY-SA 4.0" }
 file{ path = "languages/en/text/strings.dat", author = "Alex_XelA, Rypervenche, Jeff, bcallah@openbsd.org", license = "CC BY-SA 4.0" }
 file{ path = "languages/es", license = "Mixed" }
 file{ path = "languages/es/images", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/es/images/action_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/es/images/action_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/es/images/floors.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "languages/es/images/gameover_menu.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/es/images/pause_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/es/images/pause_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/es/images/pause_submenus.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/es/images/sword_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/es/images/title_screen_initialization.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/es/text", author = "Clow_eriol, Emujioda, LuisCa, Musty, Xadou, Guopich, falvarez", license = "Mixed" }
+file{ path = "languages/es/images/sword_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/es/images/title_screen_initialization.png", author = "Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/es/text", author = "Clow_eriol, Emujioda, LuisCa, Musty, Xadou, Guopich, falvarez", license = "CC BY-SA 4.0" }
 file{ path = "languages/es/text/dialogs.dat", author = "Clow_eriol, Emujioda, LuisCa, Musty, Xadou, Guopich, falvarez", license = "CC BY-SA 4.0" }
 file{ path = "languages/es/text/strings.dat", author = "Clow_eriol, Emujioda, LuisCa, Musty, Xadou, Guopich, falvarez", license = "CC BY-SA 4.0" }
+file{ path = "languages/fr", license = "Mixed" }
 file{ path = "languages/fr/images", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/fr/images/action_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/fr/images/action_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/fr/images/floors.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "languages/fr/images/gameover_menu.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/fr/images/pause_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/fr/images/pause_submenus.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/fr/images/sword_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/fr/images/title_screen_initialization.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/fr/text", author = "Christopho", license = "Mixed" }
+file{ path = "languages/fr/images/pause_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/fr/images/pause_submenus.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/fr/images/sword_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/fr/images/title_screen_initialization.png", author = "Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/fr/text", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "languages/fr/text/dialogs.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "languages/fr/text/strings.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "languages/it", license = "Mixed" }
 file{ path = "languages/it/images", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/it/images/action_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/it/images/action_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/it/images/floors.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "languages/it/images/gameover_menu.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/it/images/pause_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/it/images/pause_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/it/images/pause_submenus.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/it/images/sword_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/it/images/title_screen_initialization.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/it/text", author = "Marco Bagnaresi", license = "Mixed" }
+file{ path = "languages/it/images/sword_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/it/images/title_screen_initialization.png", author = "Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/it/text", author = "Marco Bagnaresi", license = "CC BY-SA 4.0" }
 file{ path = "languages/it/text/dialogs.dat", author = "Marco Bagnaresi", license = "CC BY-SA 4.0" }
 file{ path = "languages/it/text/strings.dat", author = "Marco Bagnaresi", license = "CC BY-SA 4.0" }
+file{ path = "languages/zh_CN", license = "Mixed" }
 file{ path = "languages/zh_CN/images", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_CN/images/action_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/zh_CN/images/action_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/zh_CN/images/floors.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "languages/zh_CN/images/gameover_menu.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_CN/images/pause_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/zh_CN/images/pause_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/zh_CN/images/pause_submenus.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_CN/images/sword_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_CN/images/title_screen_initialization.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_CN/text", author = "Rypervenche", license = "Mixed" }
+file{ path = "languages/zh_CN/images/sword_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/zh_CN/images/title_screen_initialization.png", author = "Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/zh_CN/text", author = "Rypervenche", license = "CC BY-SA 4.0" }
 file{ path = "languages/zh_CN/text/dialogs.dat", author = "Rypervenche", license = "CC BY-SA 4.0" }
 file{ path = "languages/zh_CN/text/strings.dat", author = "Rypervenche", license = "CC BY-SA 4.0" }
 file{ path = "languages/zh_TW", license = "Mixed" }
 file{ path = "languages/zh_TW/images", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_TW/images/action_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/zh_TW/images/action_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/zh_TW/images/floors.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "languages/zh_TW/images/gameover_menu.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_TW/images/pause_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "languages/zh_TW/images/pause_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "languages/zh_TW/images/pause_submenus.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_TW/images/sword_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_TW/images/title_screen_initialization.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "languages/zh_TW/text", author = "Rypervenche", license = "Mixed" }
+file{ path = "languages/zh_TW/images/sword_icon.png", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/zh_TW/images/title_screen_initialization.png", author = "Metallizer", license = "Proprietary (Fair use)" }
+file{ path = "languages/zh_TW/text", author = "Rypervenche", license = "CC BY-SA 4.0" }
 file{ path = "languages/zh_TW/text/dialogs.dat", author = "Rypervenche", license = "CC BY-SA 4.0" }
 file{ path = "languages/zh_TW/text/strings.dat", author = "Rypervenche", license = "CC BY-SA 4.0" }
 file{ path = "logos", author = "Olivier Cléro", license = "CC BY-SA 4.0" }
@@ -890,7 +892,7 @@ file{ path = "maps/1.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/10.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/10.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/100.dat", author = "Binbin", license = "CC BY-SA 4.0" }
-file{ path = "maps/100.lua", author = "Binbin", license = "GPL v3" }
+file{ path = "maps/100.lua", author = "Binbin, Christopho", license = "GPL v3" }
 file{ path = "maps/101.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/101.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/102.dat", author = "Christopho", license = "CC BY-SA 4.0" }
@@ -898,21 +900,21 @@ file{ path = "maps/102.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/103.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/103.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/104.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/104.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/104.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/105.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/105.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/105.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/106.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/106.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/106.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/107.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/107.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/107.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/108.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/108.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/108.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/109.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/109.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/109.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/11.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/11.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/110.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/110.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/110.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/111.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/111.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/112.dat", author = "Christopho", license = "CC BY-SA 4.0" }
@@ -1046,19 +1048,19 @@ file{ path = "maps/45.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/46.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/46.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/47.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/47.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/47.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/48.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/48.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/48.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/49.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/49.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/49.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/5.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/5.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/50.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/50.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/50.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/51.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/51.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/51.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/52.dat", author = "Metallizer", license = "CC BY-SA 4.0" }
-file{ path = "maps/52.lua", author = "Metallizer", license = "GPL v3" }
+file{ path = "maps/52.lua", author = "Metallizer, Christopho", license = "GPL v3" }
 file{ path = "maps/53.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/53.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/54.dat", author = "Christopho", license = "CC BY-SA 4.0" }
@@ -1150,18 +1152,18 @@ file{ path = "maps/94.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/95.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/95.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/96.dat", author = "Binbin", license = "CC BY-SA 4.0" }
-file{ path = "maps/96.lua", author = "Binbin", license = "GPL v3" }
+file{ path = "maps/96.lua", author = "Binbin, Christopho", license = "GPL v3" }
 file{ path = "maps/97.dat", author = "Binbin", license = "CC BY-SA 4.0" }
-file{ path = "maps/97.lua", author = "Binbin", license = "GPL v3" }
+file{ path = "maps/97.lua", author = "Binbin, Christopho", license = "GPL v3" }
 file{ path = "maps/98.dat", author = "Binbin", license = "CC BY-SA 4.0" }
-file{ path = "maps/98.lua", author = "Binbin", license = "GPL v3" }
+file{ path = "maps/98.lua", author = "Binbin, Christopho", license = "GPL v3" }
 file{ path = "maps/99.dat", author = "Binbin", license = "CC BY-SA 4.0" }
-file{ path = "maps/99.lua", author = "Binbin", license = "GPL v3" }
+file{ path = "maps/99.lua", author = "Binbin, Christopho", license = "GPL v3" }
 file{ path = "maps/evil_tiles.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/lib", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/lib/light_manager.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/prison_guard.lua", author = "Christopho", license = "GPL v3" }
-file{ path = "menus", author = "Christopho", license = "GPL v3" }
+file{ path = "menus", license = "GPL v3" }
 file{ path = "menus/dialog_box.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "menus/game_over.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "menus/language.lua", author = "Christopho", license = "GPL v3" }
@@ -1172,8 +1174,8 @@ file{ path = "menus/pause_options.lua", author = "Christopho", license = "GPL v3
 file{ path = "menus/pause_quest_status.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "menus/pause_submenu.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "menus/savegames.lua", author = "Christopho", license = "GPL v3" }
-file{ path = "menus/solarus_logo.lua", author = "Christopho", license = "GPL v3" }
-file{ path = "menus/team_logo.lua", author = "Christopho", license = "GPL v3" }
+file{ path = "menus/solarus_logo.lua", author = "Maxs", license = "GPL v3" }
+file{ path = "menus/team_logo.lua", author = "Olivier Cléro", license = "GPL v3" }
 file{ path = "menus/title.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "musics", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/agahnim.it", author = "Nintendo", license = "Proprietary (Fair use)" }
@@ -1493,7 +1495,7 @@ file{ path = "sprites/entities/hint_stone.dat", author = "Christopho", license =
 file{ path = "sprites/entities/hookshot.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "sprites/entities/hookshot.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "sprites/entities/items.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "sprites/entities/items.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "sprites/entities/items.png", author = "Nintendo, Newlink, Christopho, @PyroNet, Mymy, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "sprites/entities/miscellaneous.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "sprites/entities/outside_door.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "sprites/entities/pot.dat", author = "Christopho", license = "CC BY-SA 4.0" }
@@ -1596,18 +1598,18 @@ file{ path = "sprites/hud", license = "Mixed" }
 file{ path = "sprites/hud/action_icon_flip.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "sprites/hud/dialog_box.png", author = "Metallizer", license = "CC BY-SA 4.0" }
 file{ path = "sprites/hud/dialog_box_message_end.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "sprites/hud/dialog_icons.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "sprites/hud/dialog_icons.png", author = "Nintendo, Newlink, Christopho, @PyroNet, Mymy, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "sprites/hud/empty_heart.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "sprites/hud/gameover_fade.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "sprites/hud/gameover_fade.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "sprites/hud/hearts.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "sprites/hud/icons_flip.png", author = "Meallizer", license = "CC BY-SA 4.0" }
-file{ path = "sprites/hud/item_icon_1.png", author = "Meallizer", license = "CC BY-SA 4.0" }
-file{ path = "sprites/hud/item_icon_2.png", author = "Meallizer", license = "CC BY-SA 4.0" }
+file{ path = "sprites/hud/icons_flip.png", author = "Metallizer", license = "CC BY-SA 4.0" }
+file{ path = "sprites/hud/item_icon_1.png", author = "Metallizer", license = "CC BY-SA 4.0" }
+file{ path = "sprites/hud/item_icon_2.png", author = "Metallizer", license = "CC BY-SA 4.0" }
 file{ path = "sprites/hud/magic_bar.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "sprites/hud/magic_bar.png", author = "Meallizer", license = "CC BY-SA 4.0" }
+file{ path = "sprites/hud/magic_bar.png", author = "Metallizer", license = "CC BY-SA 4.0" }
 file{ path = "sprites/hud/pause_icon_flip.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "sprites/hud/rupee_icon.png", author = "Meallizer", license = "CC BY-SA 4.0" }
+file{ path = "sprites/hud/rupee_icon.png", author = "Metallizer", license = "CC BY-SA 4.0" }
 file{ path = "sprites/hud/small_key_icon.png", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "sprites/hud/sword_icon_flip.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "sprites/menus", license = "Mixed" }
