@@ -1188,7 +1188,7 @@ file{ path = "musics/dark_mountain.it", author = "Nintendo", license = "Propriet
 file{ path = "musics/dark_world.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/dark_world_dungeon.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/dungeon_finished.it", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "musics/eagle_tower.it", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "musics/eagle_tower.it", author = "Nintendo, Metallizer", license = "Proprietary (Fair use)" }
 file{ path = "musics/excalibur.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/fanfare.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/fortune_teller.it", author = "Nintendo", license = "Proprietary (Fair use)" }
@@ -1197,7 +1197,7 @@ file{ path = "musics/ganon_appears.it", author = "Nintendo", license = "Propriet
 file{ path = "musics/ganon_battle.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/ganon_theme.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/great_fairy.it", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "musics/la_mountains.ogg", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "musics/la_mountains.ogg", author = "Nintendo, Marine", license = "Proprietary (Fair use)" }
 file{ path = "musics/legend.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/light_world_dungeon.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/lost_woods.it", author = "Nintendo", license = "Proprietary (Fair use)" }
@@ -1206,13 +1206,13 @@ file{ path = "musics/overworld.it", author = "Nintendo", license = "Proprietary 
 file{ path = "musics/rabbit.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/sanctuary.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/soldiers.it", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "musics/southern_shrine.ogg", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "musics/southern_shrine.ogg", author = "Nintendo, Marine", license = "Proprietary (Fair use)" }
 file{ path = "musics/title_screen.it", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "musics/tloz_dungeon.ogg", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "musics/tloz_dungeon.ogg", author = "Nintendo, Marine", license = "Proprietary (Fair use)" }
 file{ path = "musics/triforce.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/victory.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "musics/village.it", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "musics/witch_hut.ogg", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "musics/witch_hut.ogg", author = "Nintendo, Marine", license = "Proprietary (Fair use)" }
 file{ path = "musics/zelda.it", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "play_game.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "quest_manager.lua", author = "Christopho", license = "GPL v3" }
@@ -1751,62 +1751,62 @@ file{ path = "sprites/npc/wizard.dat", author = "Christopho", license = "CC BY-S
 file{ path = "sprites/npc/zelda.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "tilesets", license = "Mixed" }
 file{ path = "tilesets/0.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/0.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/0.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/0.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/0.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/1.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/1.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/1.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/1.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/1.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/10.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/10.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/10.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/10.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/10.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/11.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/11.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/11.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/11.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/11.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/12.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/12.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/12.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/12.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/12.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/13.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/13.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/13.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/13.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/13.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/14.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/14.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/14.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/14.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/14.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/15.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/15.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/15.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/15.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/15.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/16.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/16.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/16.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/16.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/16.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/17.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/17.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/17.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/17.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/17.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/18.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/18.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/18.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/18.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/18.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/19.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/19.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/19.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/19.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/19.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/2.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/2.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/2.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/2.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/2.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/3.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/3.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/3.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/3.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/3.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/4.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/4.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/4.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/4.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/4.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/5.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/5.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/5.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/5.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/5.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/6.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/6.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/6.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/6.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/6.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/7.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/7.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/7.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/7.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/7.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/8.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/8.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/8.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/8.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/8.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
 file{ path = "tilesets/9.dat", author = "Christopho", license = "CC BY-SA 4.0" }
-file{ path = "tilesets/9.entities.png", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "tilesets/9.tiles.png", author = "Nintendo", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/9.entities.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
+file{ path = "tilesets/9.tiles.png", author = "Nintendo, Christopho", license = "Proprietary (Fair use)" }
