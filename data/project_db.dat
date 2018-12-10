@@ -1309,8 +1309,8 @@ file{ path = "sounds/water_fill.ogg", author = "Nintendo", license = "Proprietar
 file{ path = "sounds/water_fill_begin.ogg", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "sounds/world_warp.ogg", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "sounds/wrong.ogg", author = "Nintendo", license = "Proprietary (Fair use)" }
-file{ path = "sounds/zonzifleur", author = "Zonzifleur", license = "CC BY-SA 4.0" }
-file{ path = "sounds/zonzifleur/solarus_team_logo.ogg", author = "Zonzifleur", license = "CC BY-SA 4.0" }
+file{ path = "sounds/zonzifleur", author = "Louis Couka", license = "CC BY-SA 4.0" }
+file{ path = "sounds/zonzifleur/solarus_team_logo.ogg", author = "Louis Couka", license = "CC BY-SA 4.0" }
 file{ path = "sounds/zora.ogg", author = "Nintendo", license = "Proprietary (Fair use)" }
 file{ path = "sprites", license = "Mixed" }
 file{ path = "sprites/enemies", author = "Christopho", license = "CC BY-SA 4.0" }
