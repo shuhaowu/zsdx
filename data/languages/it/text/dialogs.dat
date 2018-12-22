@@ -7,7 +7,7 @@ Huh? È chiuso!
 Forse con la Chiave
 Grande potresti
 riuscire ad aprirlo!
-]]
+]],
 }
 
 dialog{
@@ -19,7 +19,7 @@ Questa porta conduce
 alla Tana del Mostro!
 Serve la Chiave del
 Mostro per aprirla.
-]]
+]],
 }
 
 dialog{
@@ -29,7 +29,7 @@ dialog{
 Ti serve qualcosa di
 affilato per tagliare
 queste erbacce.
-]]
+]],
 }
 
 dialog{
@@ -39,7 +39,7 @@ dialog{
 È ancora troppo pesante
 per riuscire a 
 sollevarlo!
-]]
+]],
 }
 
 dialog{
@@ -51,7 +51,7 @@ troppo pesante!
 
 Non ce la potrai mai
 fare a mani nude!
-]]
+]],
 }
 
 dialog{
@@ -62,7 +62,7 @@ dialog{
 cristallo. Prova a 
 colpirlo con 
 qualcosa...
-]]
+]],
 }
 
 dialog{
@@ -70,7 +70,7 @@ dialog{
   text = [[
 Il forziere è vuoto!
 Che sfortuna!
-]]
+]],
 }
 
 dialog{
@@ -81,7 +81,7 @@ dialog{
 Mangia delle Mele per
 recuperare la 
 tua Salute.
-]]
+]],
 }
 
 dialog{
@@ -93,7 +93,7 @@ Usa le Bombe contro
 i nemici e per
 distruggere gli 
 ostacoli.
-]]
+]],
 }
 
 dialog{
@@ -103,7 +103,7 @@ dialog{
   text = [[
 A che cosa servirà
 questa Chiave d'Osso?
-]]
+]],
 }
 
 dialog{
@@ -115,7 +115,7 @@ Usa il Boomerang per
 immobilizzare i nemici
 e raccogliere oggetti 
 fuori dalla tua portata.
-]]
+]],
 }
 
 dialog{
@@ -128,7 +128,7 @@ Migliorato per
 immobilizzare i nemici
 e raccogliere oggetti
 fuori dalla tua portata.
-]]
+]],
 }
 
 dialog{
@@ -139,7 +139,7 @@ dialog{
 L'Ampolla Magica può
 contenere varie
 pozioni.
-]]
+]],
 }
 
 dialog{
@@ -151,7 +151,7 @@ La tua Ampolla Magica
 è riempita con acqua.
 Usala nel 
 luogo appropriato...
-]]
+]],
 }
 
 dialog{
@@ -162,7 +162,7 @@ dialog{
 Bevi la Pozione Rossa
 per riempire tutta
 la Barra della Salute.
-]]
+]],
 }
 
 dialog{
@@ -173,7 +173,7 @@ dialog{
 Bevi la Pozione Verde
 per riempire tutta
 la Barra del Mana.
-]]
+]],
 }
 
 dialog{
@@ -185,7 +185,7 @@ Bevi la Pozione Blu
 per riempire sia
 la Barra della Salute
 che quella del Mana!
-]]
+]],
 }
 
 dialog{
@@ -199,7 +199,7 @@ in difficoltà.
 Inoltre puoi utilizzarla
 quando vuoi recuperare
 la tua Salute!
-]]
+]],
 }
 
 dialog{
@@ -210,7 +210,7 @@ dialog{
 Le Ampolle Magiche 
 possono contenere varie
 pozioni.
-]]
+]],
 }
 
 dialog{
@@ -222,7 +222,7 @@ La tua Ampolla Magica
 è riempita con acqua.
 Usala nel
 luogo appropriato...
-]]
+]],
 }
 
 dialog{
@@ -234,7 +234,7 @@ Bevi la Pozione Rossa
 per riempire
 l'indicatore dei Cuori.
 
-]]
+]],
 }
 
 dialog{
@@ -245,7 +245,7 @@ dialog{
 Bevi la Pozione Verde
 Per riempire la Barra
 del Mana.
-]]
+]],
 }
 
 dialog{
@@ -257,7 +257,7 @@ Bevi la Pozione Blu
 per riempire sia
 la Barra dei Cuori
 che quella del Mana!
-]]
+]],
 }
 
 dialog{
@@ -270,7 +270,7 @@ quando ne avrai bisogno.
 Inoltre puoi utilizzarla
 quando vuoi recuperare
 la tua Salute!
-]]
+]],
 }
 
 dialog{
@@ -281,7 +281,7 @@ dialog{
 Le Ampolle Magiche 
 possono contenere varie
 pozioni.
-]]
+]],
 }
 
 dialog{
@@ -293,7 +293,7 @@ La tua Ampolla Magica
 è riempita con acqua.
 Usala nel
 luogo appropriato...
-]]
+]],
 }
 
 dialog{
@@ -304,7 +304,7 @@ dialog{
 Bevi la Pozione Rossa
 per riempire tutta
 la Barra dei Cuori.
-]]
+]],
 }
 
 dialog{
@@ -315,7 +315,7 @@ dialog{
 Bevi la Pozione Verde
 per riempire tutta
 la Barra del Mana.
-]]
+]],
 }
 
 dialog{
@@ -327,7 +327,7 @@ Bevi la Pozione Blu
 per riempire sia
 la Barra della Salute
 che quella del Mana!
-]]
+]],
 }
 
 dialog{
@@ -340,7 +340,7 @@ quando sarai nei guai.
 Inoltre puoi utilizzarla
 quando vuoi recuperare
 la tua Salute!
-]]
+]],
 }
 
 dialog{
@@ -351,7 +351,7 @@ dialog{
 Le Ampolle Magiche 
 possono contenere 
 varie pozioni.
-]]
+]],
 }
 
 dialog{
@@ -364,7 +364,7 @@ La tua Ampolla Magica
 acqua.
 Usala nel
 luogo appropriato...
-]]
+]],
 }
 
 dialog{
@@ -375,7 +375,7 @@ dialog{
 Bevi la Pozione Rossa
 per riempire tutta
 la Barra della Salute.
-]]
+]],
 }
 
 dialog{
@@ -386,7 +386,7 @@ dialog{
 Bevi la Pozione Verde
 per riempire tutta
 la Barra del Mana.
-]]
+]],
 }
 
 dialog{
@@ -398,7 +398,7 @@ Bevi la Pozione Blu
 per riempire sia
 la Barra della Salute
 che quella del Mana!
-]]
+]],
 }
 
 dialog{
@@ -411,7 +411,7 @@ quando sei in difficoltà.
 Inoltre puoi utilizzarla
 quando vuoi recuperare
 la tua Salute!
-]]
+]],
 }
 
 dialog{
@@ -421,7 +421,7 @@ dialog{
   text = [[
 Hai finito
 le Frecce!
-]]
+]],
 }
 
 dialog{
@@ -432,7 +432,7 @@ dialog{
 Scocca le Frecce
 per sconfiggere i 
 nemici più forti.
-]]
+]],
 }
 
 dialog{
@@ -444,7 +444,7 @@ dialog{
 Crea un blocco e ti
 aggancia ad esso
 utilizzando l'Arpione.
-]]
+]],
 }
 
 dialog{
@@ -456,7 +456,7 @@ La Chiave di Terra. Ti
 consente di accedere
 alle grotte del 
 villaggio.
-]]
+]],
 }
 
 dialog{
@@ -467,7 +467,7 @@ dialog{
 Mangia un Cornetto per
 recuperare sette
 Cuori.
-]]
+]],
 }
 
 dialog{
@@ -478,7 +478,7 @@ dialog{
 Usa la Piuma per
 saltare sopra gli 
 ostacoli.
-]]
+]],
 }
 
 dialog{
@@ -489,7 +489,7 @@ dialog{
 Trova tutte e tre le
 Pietre del Fuoco e 
 portale nell'Inferno.
-]]
+]],
 }
 
 dialog{
@@ -499,7 +499,7 @@ dialog{
   text = [[
 Nuota in acque profonde
 con queste Pinne.
-]]
+]],
 }
 
 dialog{
@@ -510,7 +510,7 @@ dialog{
 Questi Guanti di Ferro
 ti consentono di 
 sollevare i massi.
-]]
+]],
 }
 
 dialog{
@@ -521,7 +521,7 @@ dialog{
 Solleva i massi neri
 con questi Guanti
 d'Oro.
-]]
+]],
 }
 
 dialog{
@@ -532,7 +532,7 @@ dialog{
 Raggiungi luoghi 
 inaccessibili con
 l'aiuto dell'Arpione.
-]]
+]],
 }
 
 dialog{
@@ -544,7 +544,7 @@ La Chiave di Ghiaccio.
 Devi trovare
 un posto ghiacciato per
 poterla utilizzare!
-]]
+]],
 }
 
 dialog{
@@ -555,7 +555,7 @@ dialog{
 La Chiave di Ferro.
 Assicurati di usarla
 col giusto lucchetto!
-]]
+]],
 }
 
 dialog{
@@ -568,7 +568,7 @@ e accendi le torce
 con la Lanterna, ma
 tieni d'occhio la 
 Barra del Mana!
-]]
+]],
 }
 
 dialog{
@@ -578,7 +578,7 @@ dialog{
   text = [[
 Questa Torta di Mele 
 sembra strana...
-]]
+]],
 }
 
 dialog{
@@ -588,7 +588,7 @@ dialog{
   text = [[
 Tre veri 
 Lingotti d'Oro!
-]]
+]],
 }
 
 dialog{
@@ -600,7 +600,7 @@ L'Edelwell è un
 fiore molto raro
 nel Regno di
 Hyrule.
-]]
+]],
 }
 
 dialog{
@@ -612,7 +612,7 @@ Queste Pergamene della
 Tigre ti consentono di
 padroneggiare avanzate
 tecniche di spada.
-]]
+]],
 }
 
 dialog{
@@ -624,7 +624,7 @@ Il Mantello Magico ti
 avvisa quando sei 
 vicino a un muro 
 fragile.
-]]
+]],
 }
 
 dialog{
@@ -634,7 +634,7 @@ dialog{
   text = [[
 Lo Specchio Mistico
 ha strani poteri...
-]]
+]],
 }
 
 dialog{
@@ -645,7 +645,7 @@ dialog{
 Mangia una Cornetto al
 Cioccolato per 
 recuperare tre Cuori.
-]]
+]],
 }
 
 dialog{
@@ -659,7 +659,7 @@ le Scarpe del Pegaso.
 Premi e tieni premuto 
 il tasto Azione 
 per correre.
-]]
+]],
 }
 
 dialog{
@@ -670,7 +670,7 @@ dialog{
 La Chiave del Roc! Ma
 dov'è la serratura
 giusta?
-]]
+]],
 }
 
 dialog{
@@ -681,7 +681,7 @@ dialog{
 La Chiave di Pietra!
 Ora devo trovare la sua
 serratura!
-]]
+]],
 }
 
 dialog{
@@ -692,7 +692,7 @@ dialog{
 La Chiave di Legno.
 C'è solo un lucchetto
 per questa chiave!
-]]
+]],
 }
 
 dialog{
@@ -700,7 +700,7 @@ dialog{
   text = [[
 Non puoi trasportare
 nient'altro!
-]]
+]],
 }
 
 dialog{
@@ -709,7 +709,7 @@ dialog{
   text = [[
 Mi spiace, non hai 
 abbastanza Monete!
-]]
+]],
 }
 
 dialog{
@@ -719,7 +719,7 @@ dialog{
 Prezzo: $v Monete.
 Compra
 Non Comprare
-]]
+]],
 }
 
 dialog{
@@ -728,7 +728,7 @@ dialog{
   skip = "all",
   text = [[
 È chiuso!
-]]
+]],
 }
 
 dialog{
@@ -738,7 +738,7 @@ dialog{
 Hai trovato 3 Mele!$0
 Mangiale quando vuoi
 recuperare Cuori!
-]]
+]],
 }
 
 dialog{
@@ -750,7 +750,7 @@ Hai trovato una
 Freccia!$0
 Usa l'Arco e le
 Frecce per sconfiggere
-]]
+]],
 }
 
 dialog{
@@ -758,7 +758,7 @@ dialog{
   text = [[
 i nemici più forti da
 lontano.
-]]
+]],
 }
 
 dialog{
@@ -769,7 +769,7 @@ dialog{
 Hai trovato 5 Frecce!$0
 Usa l'Arco e le Frecce
 per sconfiggere
-]]
+]],
 }
 
 dialog{
@@ -780,7 +780,7 @@ dialog{
 Hai trovato 10 Frecce!$0
 Usa l'Arco e le Frecce 
 per sconfiggere
-]]
+]],
 }
 
 dialog{
@@ -793,7 +793,7 @@ Grande!
 Ora puoi aprire
 le porte speciali e
 trovare nuovi tesori!
-]]
+]],
 }
 
 dialog{
@@ -806,7 +806,7 @@ Pozione Blu!$0
 Bevila per recuperare
 sia la tua Salute che
 il tuo Mana.
-]]
+]],
 }
 
 dialog{
@@ -815,7 +815,7 @@ dialog{
   next = "_treasure.bomb.1.1",
   text = [[
 Hai trovato una Bomba!$0
-]]
+]],
 }
 
 dialog{
@@ -824,7 +824,7 @@ dialog{
 Usa una Bomba per far
 esplodere un ostacolo o
 un nemico.
-]]
+]],
 }
 
 dialog{
@@ -834,7 +834,7 @@ dialog{
   text = [[
 Hai trovato tre
 Bombe!$0
-]]
+]],
 }
 
 dialog{
@@ -844,7 +844,7 @@ dialog{
   text = [[
 Hai trovato otto
 Bombe!$0
-]]
+]],
 }
 
 dialog{
@@ -857,7 +857,7 @@ Essa contiene 10
 Bombe.
 Assegnale a un tasto e
 sgancia le bombe!
-]]
+]],
 }
 
 dialog{
@@ -869,7 +869,7 @@ per le Bombe Grande!$0
 
 Può contenere fino a 30
 Bombe invece di 10!
-]]
+]],
 }
 
 dialog{
@@ -881,7 +881,7 @@ per le Bombe Gigante!$0
 
 Può contenere fino a 99
 Bombe invece di 30!
-]]
+]],
 }
 
 dialog{
@@ -892,7 +892,7 @@ Hai trovato la Chiave
 d'Osso!$0
 
 Ma per che cosa servirà?
-]]
+]],
 }
 
 dialog{
@@ -909,7 +909,7 @@ Ci sono diversi modi
 per utilizzarlo,
 sta a te scoprirli
 tutti!
-]]
+]],
 }
 
 dialog{
@@ -922,7 +922,7 @@ Boomerang Migliorato!$0
 È più veloce e più
 potente di quello
 normale!
-]]
+]],
 }
 
 dialog{
@@ -934,7 +934,7 @@ del Mostro!
 
 Ora puoi entrare
 nella Tana del Mostro!
-]]
+]],
 }
 
 dialog{
@@ -946,7 +946,7 @@ un'Ampolla Magica!$0
 
 Riempila con
 varie pozioni.
-]]
+]],
 }
 
 dialog{
@@ -956,7 +956,7 @@ dialog{
 Hai riempito
 l'Ampolla Magica con
 acqua!
-]]
+]],
 }
 
 dialog{
@@ -968,7 +968,7 @@ Pozione Rossa!$0
 
 Bevila per recuperare
 la tua Salute.
-]]
+]],
 }
 
 dialog{
@@ -980,7 +980,7 @@ Pozione Verde!$0
 
 Bevila per recuperare
 il tuo Mana.
-]]
+]],
 }
 
 dialog{
@@ -993,7 +993,7 @@ Pozione Blu!$0
 Bevila per recuperare
 completamente sia
 la Salute che il Mana!
-]]
+]],
 }
 
 dialog{
@@ -1007,7 +1007,7 @@ quando ne avrai
 bisogno. Puoi anche
 usarla per recuperare
 la tua Salute!
-]]
+]],
 }
 
 dialog{
@@ -1019,7 +1019,7 @@ un'Ampolla Magica!$0
 
 Riempila con varie
 pozioni.
-]]
+]],
 }
 
 dialog{
@@ -1029,7 +1029,7 @@ dialog{
 Hai riempito
 l'Ampolla Magica con
 acqua!
-]]
+]],
 }
 
 dialog{
@@ -1041,7 +1041,7 @@ Pozione Rossa!$0
 
 Bevila per recuperare
 la tua Salute.
-]]
+]],
 }
 
 dialog{
@@ -1053,7 +1053,7 @@ Pozione Verde!$0
 
 Bevila per recuperare
 il tuo Mana.
-]]
+]],
 }
 
 dialog{
@@ -1066,7 +1066,7 @@ Pozione Blu!$0
 Bevila per recuperare
 sia tutta la tua Salute
 che tutto il Mana!
-]]
+]],
 }
 
 dialog{
@@ -1080,7 +1080,7 @@ quando ne avrai bisogno.
 Puoi anche usarla 
 quando vuoi
 recuperare dei Cuori!
-]]
+]],
 }
 
 dialog{
@@ -1092,7 +1092,7 @@ un'Ampolla Magica!$0
 
 Riempila con varie
 pozioni.
-]]
+]],
 }
 
 dialog{
@@ -1102,7 +1102,7 @@ dialog{
 Hai riempito la tua
 Ampolla Magica con
 acqua!
-]]
+]],
 }
 
 dialog{
@@ -1114,7 +1114,7 @@ Pozione Rossa!$0
 
 Bevila per recuperare
 la tua salute.
-]]
+]],
 }
 
 dialog{
@@ -1126,7 +1126,7 @@ Pozione Verde!$0
 
 Bevila per recuperare
 il tuo Mana.
-]]
+]],
 }
 
 dialog{
@@ -1139,7 +1139,7 @@ Pozione Blu!$0
 Bevila per recuperare
 tutta la tua Salute
 ed il tuo Mana!
-]]
+]],
 }
 
 dialog{
@@ -1154,7 +1154,7 @@ bisogno. Puoi anche
 utilizzarla quando 
 vuoi recuperare 
 della Salute!
-]]
+]],
 }
 
 dialog{
@@ -1166,7 +1166,7 @@ un'Ampolla Magica!$0
 
 Riempila con varie
 pozioni.
-]]
+]],
 }
 
 dialog{
@@ -1176,7 +1176,7 @@ dialog{
 Hai riempito la tua
 Ampolla Magica con
 acqua!
-]]
+]],
 }
 
 dialog{
@@ -1188,7 +1188,7 @@ Pozione Rossa!$0
 
 Bevila per recuperare
 la tua salute.
-]]
+]],
 }
 
 dialog{
@@ -1200,7 +1200,7 @@ Pozione Verde!$0
 
 Bevila per recuperare
 il tuo Mana.
-]]
+]],
 }
 
 dialog{
@@ -1214,7 +1214,7 @@ Bevila per recuperare
 completamente la tua
 Salute ed il tuo
 Mana!
-]]
+]],
 }
 
 dialog{
@@ -1229,7 +1229,7 @@ bisogno.
 Puoi anche utilizzarla
 quando vuoi recuperare
 della Salute!
-]]
+]],
 }
 
 dialog{
@@ -1241,7 +1241,7 @@ Trova delle Frecce e
 potrai sconfiggere i
 nemici più forti dalla
 lunga distanza!
-]]
+]],
 }
 
 dialog{
@@ -1251,7 +1251,7 @@ dialog{
 Hai trovato un Arco!$0
 Puoi combattere i nemici
 più forti da lontano!
-]]
+]],
 }
 
 dialog{
@@ -1264,7 +1264,7 @@ Bastone di Somaria!$0
 Puoi creare un
 blocco e aggrapparti
 ad esso con l'Arpione.
-]]
+]],
 }
 
 dialog{
@@ -1277,7 +1277,7 @@ di Terra!$0
 Ora puoi accedere
 alla grotta del 
 villagio!
-]]
+]],
 }
 
 dialog{
@@ -1293,7 +1293,7 @@ forzieri, e anche
 la Tana del Mostro! 
 Ora possiamo andare
 nella giusta direzione!
-]]
+]],
 }
 
 dialog{
@@ -1305,7 +1305,7 @@ Cornetto!$0
 È croccante! Mangia un
 Cornetto per recuperare
 dei Cuori.
-]]
+]],
 }
 
 dialog{
@@ -1316,7 +1316,7 @@ Hai trovato una
 Piuma!$0 Usala per 
 saltare da fermo e 
 sopra gli ostacoli!
-]]
+]],
 }
 
 dialog{
@@ -1325,7 +1325,7 @@ dialog{
   text = [[
 Hai trovato una
 Pietra del Fuoco!
-]]
+]],
 }
 
 dialog{
@@ -1337,7 +1337,7 @@ Pinna!$0
 
 Ora puoi nuotare
 in acque profonde!
-]]
+]],
 }
 
 dialog{
@@ -1349,7 +1349,7 @@ di Ferro!$0
 
 Con questi puoi
 sollevare le rocce.
-]]
+]],
 }
 
 dialog{
@@ -1361,7 +1361,7 @@ d'Oro!$0
 
 Ora puoi sollevare
 le rocce nere!
-]]
+]],
 }
 
 dialog{
@@ -1374,7 +1374,7 @@ Pozione Verde!$0
 Bevila per 
 recuperare completamente
 il tuo Mana.
-]]
+]],
 }
 
 dialog{
@@ -1382,7 +1382,7 @@ dialog{
   icon = "84",
   text = [[
 Hai trovato un Cuore!
-]]
+]],
 }
 
 dialog{
@@ -1395,7 +1395,7 @@ Portagioie del Cuore!
 La tua Barra della
 Salute è aumentata
 di uno!
-]]
+]],
 }
 
 dialog{
@@ -1409,7 +1409,7 @@ Immobilizza i tuoi
 nemici e scaglia
 te stesso in
 luoghi inaccessibili!
-]]
+]],
 }
 
 dialog{
@@ -1422,7 +1422,7 @@ di Ghiaccio!$0
 Sicuramente servirà per
 aprirti la strada verso
 un luogo gelido...
-]]
+]],
 }
 
 dialog{
@@ -1434,7 +1434,7 @@ di Ferro!$0
 
 Sicuramente aprirà 
 una qualche porta!
-]]
+]],
 }
 
 dialog{
@@ -1447,7 +1447,7 @@ Lanterna!$0
 Usala per illuminare
 posti bui e per
 accendere le torce.
-]]
+]],
 }
 
 dialog{
@@ -1460,7 +1460,7 @@ $1...$3 Hmmm, io
 non la mangerei se fossi
 in te, ha un aspetto
 strano...
-]]
+]],
 }
 
 dialog{
@@ -1472,7 +1472,7 @@ Lingotti d'Oro!!!$0
 
 Sono luccicanti e 
 molto preziosi!
-]]
+]],
 }
 
 dialog{
@@ -1485,7 +1485,7 @@ Edelwell!$0
 Questo magnifico fiore
 delle montagne di Hyrule
 è estremamente raro!
-]]
+]],
 }
 
 dialog{
@@ -1499,7 +1499,7 @@ come effettuare
 l'Attacco Turbinante,
 una tecnica segreta da
 tempo dimenticata.
-]]
+]],
 }
 
 dialog{
@@ -1511,7 +1511,7 @@ della Magia!$0
 
 Il tuo Indicatore del
 Mana è raddoppiato!
-]]
+]],
 }
 
 dialog{
@@ -1524,7 +1524,7 @@ Magico!$0
 Ti avviserà quando
 sarai vicino a un
 muro fragile.
-]]
+]],
 }
 
 dialog{
@@ -1536,7 +1536,7 @@ Anfora Magica! Il tuo
 Indicatore del Mana si
 è leggermente 
 ricaricato.
-]]
+]],
 }
 
 dialog{
@@ -1547,7 +1547,7 @@ Hai trovato una Grande
 Anfora Magica! Il tuo
 Indicatore del Mana si
 è ricaricato tanto.
-]]
+]],
 }
 
 dialog{
@@ -1557,7 +1557,7 @@ dialog{
 Hai trovato una Mappa!
 Usala per vedere i
 percorsi nei labirinti.
-]]
+]],
 }
 
 dialog{
@@ -1571,7 +1571,7 @@ I suoi strani poteri
 ti saranno sicuramente
 d'aiuto nella 
 tua avventura.
-]]
+]],
 }
 
 dialog{
@@ -1584,7 +1584,7 @@ al Cioccolato!$0
 Mangia un Cornetto al 
 Cioccolato per 
 recuperare alcuni Cuori.
-]]
+]],
 }
 
 dialog{
@@ -1599,7 +1599,7 @@ i nemici più robusti!
 Premi e tieni premuto
 il tasto Azione per 
 utilizzarle.
-]]
+]],
 }
 
 dialog{
@@ -1608,7 +1608,7 @@ dialog{
   text = [[
 Hai trovato un
 Frammento di Cuore!
-]]
+]],
 }
 
 dialog{
@@ -1621,7 +1621,7 @@ Faretra Grande!$0
 Può contenere fino
 a 30 Frecce invece
 di 10!
-]]
+]],
 }
 
 dialog{
@@ -1634,7 +1634,7 @@ Faretra Gigante!$0
 Può contenere fino a 
 99 Frecce invece di
 30!
-]]
+]],
 }
 
 dialog{
@@ -1647,7 +1647,7 @@ Pozione Rossa!$0
 Bevila per riempire
 completamente la
 tua Salute.
-]]
+]],
 }
 
 dialog{
@@ -1656,7 +1656,7 @@ dialog{
   text = [[
 Hai trovato la Chiave
 del Roc!$0
-]]
+]],
 }
 
 dialog{
@@ -1666,7 +1666,7 @@ dialog{
 Hai trovato una
 Moneta Verde!
 Vale per una moneta!
-]]
+]],
 }
 
 dialog{
@@ -1676,7 +1676,7 @@ dialog{
 Hai trovato una
 Moneta Blu!
 Vale 5 monete!
-]]
+]],
 }
 
 dialog{
@@ -1686,7 +1686,7 @@ dialog{
 Hai trovato una
 Moneta Rossa!
 Vale 20 monete!
-]]
+]],
 }
 
 dialog{
@@ -1695,7 +1695,7 @@ dialog{
   text = [[
 Hai trovato 50 Monete!
 Meraviglioso!
-]]
+]],
 }
 
 dialog{
@@ -1704,7 +1704,7 @@ dialog{
   text = [[
 Hai trovato 100
 Monete! Fantastico!
-]]
+]],
 }
 
 dialog{
@@ -1713,7 +1713,7 @@ dialog{
   text = [[
 Hai trovato 300 Monete!
 Che meraviglia!
-]]
+]],
 }
 
 dialog{
@@ -1725,7 +1725,7 @@ Portamonete Grande!$0
 
 Può contenere fino a
 300 Monete!
-]]
+]],
 }
 
 dialog{
@@ -1737,7 +1737,7 @@ Portamonete Gigante!$0
 
 Può contenere fino a
 999 Monete!
-]]
+]],
 }
 
 dialog{
@@ -1750,7 +1750,7 @@ Scudo!$0
 Ti puoi difendere
 dagli attacchi
 dei nemici!
-]]
+]],
 }
 
 dialog{
@@ -1763,7 +1763,7 @@ Scudo di Fuoco!$0
 Ora ti puoi
 proteggere dagli
 attacchi del fuoco!
-]]
+]],
 }
 
 dialog{
@@ -1775,7 +1775,7 @@ Scudo Riflettente!$0
 
 Ora puoi riflettere
 i dardi luminosi!
-]]
+]],
 }
 
 dialog{
@@ -1788,7 +1788,7 @@ Piccola!
 Questa chiave aprirà una
 porta chiusa a chiave in
 questi sotterranei.
-]]
+]],
 }
 
 dialog{
@@ -1800,7 +1800,7 @@ di Pietra!$0
 
 Ma dov'è la serratura
 che apre?
-]]
+]],
 }
 
 dialog{
@@ -1812,7 +1812,7 @@ Spada del Coraggio!$0
 
 Usala per annientare
 i tuoi nemici!
-]]
+]],
 }
 
 dialog{
@@ -1823,7 +1823,7 @@ dialog{
 $1Hai trovato la
 Spada di Hylian!$0$0$0
 Questa nuova spada
-]]
+]],
 }
 
 dialog{
@@ -1832,7 +1832,7 @@ dialog{
 è il doppio
 più potente di
 quella vecchia!
-]]
+]],
 }
 
 dialog{
@@ -1843,7 +1843,7 @@ dialog{
 $1Hai trovato la
 Spada dell'Eroe!$0$0$0
 Questa nuova spada
-]]
+]],
 }
 
 dialog{
@@ -1856,7 +1856,7 @@ Il potere di questa
 spada definitiva è al
 di là di qualsiasi cosa
 tu abbia mai visto!
-]]
+]],
 }
 
 dialog{
@@ -1870,7 +1870,7 @@ degli attacchi nemici
 e ti protegge 
 dalle temperature
 artiche...
-]]
+]],
 }
 
 dialog{
@@ -1884,7 +1884,7 @@ Ti fornisce una
 protezione ancora 
 migliore della 
 Corazza Blu!
-]]
+]],
 }
 
 dialog{
@@ -1896,7 +1896,7 @@ di Legno!$0
 
 Devi scoprire dove
 poterla utilizzare!
-]]
+]],
 }
 
 dialog{
@@ -1908,7 +1908,7 @@ Mappa del Mondo!$0
 
 Visualizzala nella 
 schermata Mappa.
-]]
+]],
 }
 
 dialog{
@@ -1916,7 +1916,7 @@ dialog{
   text = [[
 Tieni d'occhio la
 tua Barra del Mana!
-]]
+]],
 }
 
 dialog{
@@ -1925,7 +1925,7 @@ dialog{
 No grazie, è ben lontano
 dall'essere uno scambio 
 equo...
-]]
+]],
 }
 
 dialog{
@@ -1933,7 +1933,7 @@ dialog{
   text = [[
 Pfft! Non hai nemmeno
 una Torta di Mele!
-]]
+]],
 }
 
 dialog{
@@ -1942,7 +1942,7 @@ dialog{
 Un Cornetto?
 Mi stai prendendo 
 in giro?
-]]
+]],
 }
 
 dialog{
@@ -1950,7 +1950,7 @@ dialog{
   text = [[
 Non hai nemmeno un 
 cornetto! Ladro!
-]]
+]],
 }
 
 dialog{
@@ -1962,7 +1962,7 @@ $0...$0.................
 $3Accetto!
 Tieni, prendi il tuo
 stupido fiore...
-]]
+]],
 }
 
 dialog{
@@ -2005,7 +2005,7 @@ eroismo il fatto che
 abbia trovato questo
 fiore di grande valore :
 un Edelwell!
-]]
+]],
 }
 
 dialog{
@@ -2021,7 +2021,7 @@ Terrore per trovarlo.
 Se non hai niente di 
 valore da darmi, allora
 vai per la tua strada.
-]]
+]],
 }
 
 dialog{
@@ -2031,7 +2031,7 @@ dialog{
 Che cosa vuoi darmi?
 I Lingotti d'Oro
 La Torta di Mele
-]]
+]],
 }
 
 dialog{
@@ -2041,7 +2041,7 @@ dialog{
 Che cosa vuoi darmi?
 Un Cornetto
 La Torta di Mele
-]]
+]],
 }
 
 dialog{
@@ -2051,7 +2051,7 @@ dialog{
 Solo respingendo la luce,
 essa nuovamente 
 risplenderà.
-]]
+]],
 }
 
 dialog{
@@ -2060,7 +2060,7 @@ dialog{
   text = [[
 Una Torta di Mele.
 Cucinata col tuo aiuto!
-]]
+]],
 }
 
 dialog{
@@ -2070,7 +2070,7 @@ dialog{
 Questo Cornetto fragrante
 ti farà recuperare
 sette Cuori.
-]]
+]],
 }
 
 dialog{
@@ -2086,7 +2086,7 @@ bastare.
 Vuoi aiutarmi?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -2095,7 +2095,7 @@ dialog{
 Grazie... Torna a
 trovarmi se ne trovi
 qualcuna!
-]]
+]],
 }
 
 dialog{
@@ -2104,7 +2104,7 @@ dialog{
 Oh, non hai 
 abbastanza mele... Torna
 più tardi allora.
-]]
+]],
 }
 
 dialog{
@@ -2114,7 +2114,7 @@ dialog{
 Un delizioso Cornetto al
 Cioccolato ti farà
 recuperare tre Cuori.
-]]
+]],
 }
 
 dialog{
@@ -2128,7 +2128,7 @@ gran bella Torta di Mele.
 Vuoi aiutarmi?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -2137,7 +2137,7 @@ dialog{
 Benvenuto. Scegli i
 pasticcini che vuoi 
 comprare.
-]]
+]],
 }
 
 dialog{
@@ -2153,7 +2153,7 @@ Vuota...
 È una ricompensa piccola
 ma sono sicuro che 
 saprai farne buon uso.
-]]
+]],
 }
 
 dialog{
@@ -2164,7 +2164,7 @@ Che cannone
 magnifico!
 È meglio non essere
 un nemico del Re!
-]]
+]],
 }
 
 dialog{
@@ -2175,7 +2175,7 @@ Sono spiacente signore,
 ma non le è consentito 
 accedere alle prigioni
 del sotterraneo.
-]]
+]],
 }
 
 dialog{
@@ -2188,7 +2188,7 @@ Come sei arrivato fino
 qui?
 È proibito camminare
 in questa zona!
-]]
+]],
 }
 
 dialog{
@@ -2200,7 +2200,7 @@ piano superiore e al
 balcone.
 Sfortunatamente l'accesso 
 non è consentito a tutti.
-]]
+]],
 }
 
 dialog{
@@ -2215,7 +2215,7 @@ delle terre di Hyrule
 viaggiano fin qui
 per godere delle bellezze
 di questo luogo!
-]]
+]],
 }
 
 dialog{
@@ -2232,7 +2232,7 @@ riusciti a costruire
 qualcosa di così maestoso
 con i mezzi che avevano
 a quel tempo...
-]]
+]],
 }
 
 dialog{
@@ -2241,7 +2241,7 @@ dialog{
   text = [[
 Che lusso! Questo
 luogo è magnifico!
-]]
+]],
 }
 
 dialog{
@@ -2252,7 +2252,7 @@ I prigionieri del Re
 venivano segregati
 all'interno di queste
 prigioni oscure.
-]]
+]],
 }
 
 dialog{
@@ -2264,7 +2264,7 @@ Castello reale, elencato
 tra i monumenti storici.
 Per favore evita
 di arrecare disturbo.
-]]
+]],
 }
 
 dialog{
@@ -2276,7 +2276,7 @@ migliori soldati,
 scomparve misteriosamente
 mentre stava esplorando
 la grotta.
-]]
+]],
 }
 
 dialog{
@@ -2286,7 +2286,7 @@ dialog{
 Solo uno osservatore
 attento sarà capace
 di seguire il percorso.
-]]
+]],
 }
 
 dialog{
@@ -2294,7 +2294,7 @@ dialog{
   skip = "all",
   text = [[
 Scegli un forziere!
-]]
+]],
 }
 
 dialog{
@@ -2310,7 +2310,7 @@ che ne dici di essere
 il primo a giocare al 
 mio gioco? Una partita 
 costa 30 Monete.
-]]
+]],
 }
 
 dialog{
@@ -2319,7 +2319,7 @@ dialog{
   text = [[
 Non hai abbastanza
 Monete!
-]]
+]],
 }
 
 dialog{
@@ -2329,7 +2329,7 @@ dialog{
   text = [[
 Ciao! Una partita costa
 30 Monete.
-]]
+]],
 }
 
 dialog{
@@ -2339,7 +2339,7 @@ dialog{
 Vuoi fare una partita?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -2350,7 +2350,7 @@ Grazie! Puoi aprire uno
 dei forzieri.
 Vinci il contenuto
 del forziere.
-]]
+]],
 }
 
 dialog{
@@ -2365,7 +2365,7 @@ Puoi tenerti il suo
 contenuto. Il Premio
 Speciale di oggi è un
 Frammento di Cuore!
-]]
+]],
 }
 
 dialog{
@@ -2381,7 +2381,7 @@ trovi nel forziere.
 Oggi il Premio Speciale
 in palio è una magnifica
 Chiave di Legno!
-]]
+]],
 }
 
 dialog{
@@ -2392,7 +2392,7 @@ $1     Riconoscimenti$0
 
       Programmazione:$0
 Christopho$0
-]]
+]],
 }
 
 dialog{
@@ -2407,7 +2407,7 @@ Christopho$0
 Metallizer$0
 Binbin$0
 Mymy$0
-]]
+]],
 }
 
 dialog{
@@ -2422,7 +2422,7 @@ Djipi$0
 $1        Musiche:$0
 Marine$0
 Metallizer$0
-]]
+]],
 }
 
 dialog{
@@ -2442,7 +2442,7 @@ $1   Traduzione in
      Italiano :$0
 
 Marco Bagnaresi$0
-]]
+]],
 }
 
 dialog{
@@ -2469,7 +2469,7 @@ Grazie per aver giocato!$0
 
 
  www.solarus-games.org$0
-]]
+]],
 }
 
 dialog{
@@ -2478,7 +2478,7 @@ dialog{
   text = [[
      Livello 1
  La Foresta Intricata
-]]
+]],
 }
 
 dialog{
@@ -2521,7 +2521,7 @@ Hyrule nel'oscurità...
 Possa tu eroe portare
 pace e prosperità al 
 Regno!
-]]
+]],
 }
 
 dialog{
@@ -2530,7 +2530,7 @@ dialog{
   text = [[
     Livello Segreto
   La Torre Celestiale
-]]
+]],
 }
 
 dialog{
@@ -2539,7 +2539,7 @@ dialog{
   text = [[
        Livello 2
    La Caverna del Roc
-]]
+]],
 }
 
 dialog{
@@ -2549,7 +2549,7 @@ dialog{
        F | B | E
       ---|---|---
        C | D | A
-]]
+]],
 }
 
 dialog{
@@ -2559,7 +2559,7 @@ dialog{
 Entrambi gli occhi
 devono essere forati
 con perseveranza.
-]]
+]],
 }
 
 dialog{
@@ -2568,7 +2568,7 @@ dialog{
   text = [[
 Entrambi gli occhi
 devono essere forati.
-]]
+]],
 }
 
 dialog{
@@ -2601,7 +2601,7 @@ nel tuo coraggio.
 Possa tu eroe portare
 pace e prosperità al 
 Regno!
-]]
+]],
 }
 
 dialog{
@@ -2611,7 +2611,7 @@ dialog{
        Livello 3
      Il Rifugio del 
      Potente Arbror
-]]
+]],
 }
 
 dialog{
@@ -2619,7 +2619,7 @@ dialog{
   text = [[
 
   Nord: Potente Arbror
-]]
+]],
 }
 
 dialog{
@@ -2629,7 +2629,7 @@ Haa!!! Non mi
 sconfiggerai mai, 
 io sono il Potente
 Arbror!
-]]
+]],
 }
 
 dialog{
@@ -2640,7 +2640,7 @@ sconfitto, ma non farai
 molta strada...
 Non ce la
 farai mai...
-]]
+]],
 }
 
 dialog{
@@ -2666,7 +2666,7 @@ pace in queste terre.
 Possa tu eroe portare
 pace e prosperita
 nel Regno!
-]]
+]],
 }
 
 dialog{
@@ -2674,7 +2674,7 @@ dialog{
   text = [[
 Molto distante...
 un rumore...
-]]
+]],
 }
 
 dialog{
@@ -2727,7 +2727,7 @@ rivedremo ancora, e con
 i miei poteri, porrò 
 FINE alla tua avventura!
 Ah ah ah ah ah ah!!!
-]]
+]],
 }
 
 dialog{
@@ -2736,7 +2736,7 @@ dialog{
 La via è indicata dove
 i quattro forzieri si
 incontrano.
-]]
+]],
 }
 
 dialog{
@@ -2744,7 +2744,7 @@ dialog{
   text = [[
 Se non vedi le uscite,
 usa la mappa.
-]]
+]],
 }
 
 dialog{
@@ -2765,7 +2765,7 @@ sicuro.
 Possa tu eroe portare
 pace e prosperità
 al Regno!
-]]
+]],
 }
 
 dialog{
@@ -2773,7 +2773,7 @@ dialog{
   text = [[
 È troppo freddo qui...
 Devi andartene!
-]]
+]],
 }
 
 dialog{
@@ -2782,7 +2782,7 @@ dialog{
   text = [[
        Livello 4
  Il Palazzo di Beaumont
-]]
+]],
 }
 
 dialog{
@@ -2796,7 +2796,7 @@ Complimenti!
 Sfortunatamente per te,
 il tuo viaggio 
 finisce qui!
-]]
+]],
 }
 
 dialog{
@@ -2817,7 +2817,7 @@ otto figli di Solarus...
 Ah ah ah ah ah!
 Ora me ne devo andare. 
 Ma ci rivedremo!
-]]
+]],
 }
 
 dialog{
@@ -2825,7 +2825,7 @@ dialog{
   text = [[
 FERMO!
 Non ti muovere!
-]]
+]],
 }
 
 dialog{
@@ -2835,7 +2835,7 @@ dialog{
 La chiave dell'enigma è
 far girare le anfore
 nella giusta direzione.
-]]
+]],
 }
 
 dialog{
@@ -2844,7 +2844,7 @@ dialog{
   - Serratura di Ferro -
 Nessuna delle tue chiavi 
 sembra essere adatta...
-]]
+]],
 }
 
 dialog{
@@ -2853,14 +2853,14 @@ dialog{
   text = [[
 $1Hai usato la Chiave di
 Ferro...
-]]
+]],
 }
 
 dialog{
   id = "dungeon_5.prison_2_locked_1",
   text = [[
 È chiuso a chiave!
-]]
+]],
 }
 
 dialog{
@@ -2869,7 +2869,7 @@ dialog{
 È così arrugginito che
 nemmeno la Chiave Grande
 funzionerà.
-]]
+]],
 }
 
 dialog{
@@ -2878,7 +2878,7 @@ dialog{
 Forse c'è un modo per
 scassinare questo 
 vecchio lucchetto...
-]]
+]],
 }
 
 dialog{
@@ -2888,7 +2888,7 @@ Da qualche parte nelle
 profondità del castello, 
 un meccanismo si 
 attiva...
-]]
+]],
 }
 
 dialog{
@@ -2897,7 +2897,7 @@ dialog{
   text = [[
         Livello 5
     L'Antico Castello
-]]
+]],
 }
 
 dialog{
@@ -2905,7 +2905,7 @@ dialog{
   text = [[
 Allora chiudi la strada
 alle tue spalle.
-]]
+]],
 }
 
 dialog{
@@ -2913,7 +2913,7 @@ dialog{
   text = [[
 Non devi cadere, ma 
 saltare.
-]]
+]],
 }
 
 dialog{
@@ -2925,7 +2925,7 @@ Hai attraversato un
 lungo viaggio e superato
 molte prove da quanto ci 
 siamo visti tempo fa.
-]]
+]],
 }
 
 dialog{
@@ -2972,7 +2972,7 @@ Per favore prendi questo,
 è il mio piccolo 
 contributo per aiutarti 
 nella tua impresa...
-]]
+]],
 }
 
 dialog{
@@ -2980,7 +2980,7 @@ dialog{
   text = [[
 Le tre torce indicano
 la strada della caduta.
-]]
+]],
 }
 
 dialog{
@@ -2990,7 +2990,7 @@ dialog{
         Livello 6
       Il Labirinto
       dell'Inferno
-]]
+]],
 }
 
 dialog{
@@ -2998,7 +2998,7 @@ dialog{
   text = [[
 La soluzione è di non
 cadere da soli.
-]]
+]],
 }
 
 dialog{
@@ -3007,7 +3007,7 @@ dialog{
 Nel terreno dormono 
 segreti, proprio sotto 
 i piedi...
-]]
+]],
 }
 
 dialog{
@@ -3017,7 +3017,7 @@ dialog{
         4  7  2        
         6  1  8        
            3  5        
-]]
+]],
 }
 
 dialog{
@@ -3079,7 +3079,7 @@ solo lei controlla
 il sigillo del Treforte.
 Ecco perchè devi 
 proteggere il sigillo.
-]]
+]],
 }
 
 dialog{
@@ -3089,7 +3089,7 @@ dialog{
         Livello 7
       Il Tempio di 
        Cristallo
-]]
+]],
 }
 
 dialog{
@@ -3113,7 +3113,7 @@ mi impossesserò del
  Treforte e
 conquisterò il mondo
 intero. Ah ah ah ah!
-]]
+]],
 }
 
 dialog{
@@ -3134,7 +3134,7 @@ capace di sconfiggerti,
 invocare il mio 
 Maestro...
 Ah ah ah ah ah ah!!!
-]]
+]],
 }
 
 dialog{
@@ -3145,7 +3145,7 @@ Sei piuttosto fastidioso,
 devo ammetterlo.
 Ma cosa ne pensi di 
 questo?
-]]
+]],
 }
 
 dialog{
@@ -3168,7 +3168,7 @@ Agahnim...
 
 
 Ora, preparati a morire!
-]]
+]],
 }
 
 dialog{
@@ -3194,7 +3194,7 @@ assistere a questo
 magnifico evento. 
 Siete spacciati, 
 rilassati...
-]]
+]],
 }
 
 dialog{
@@ -3204,7 +3204,7 @@ dialog{
 Gettati nelle profondità
 delle caverne e continua
 il tuo viaggio.
-]]
+]],
 }
 
 dialog{
@@ -3213,7 +3213,7 @@ dialog{
   text = [[
 Se sei bloccato, combatti
 le picche con le picche.
-]]
+]],
 }
 
 dialog{
@@ -3223,7 +3223,7 @@ dialog{
         Livello 8
      Le Caverne delle 
        Cime Rocciose
-]]
+]],
 }
 
 dialog{
@@ -3231,7 +3231,7 @@ dialog{
   skip = "all",
   text = [[
 A destra.
-]]
+]],
 }
 
 dialog{
@@ -3239,7 +3239,7 @@ dialog{
   skip = "all",
   text = [[
 A sinistra.
-]]
+]],
 }
 
 dialog{
@@ -3247,7 +3247,7 @@ dialog{
   skip = "all",
   text = [[
 Giù.
-]]
+]],
 }
 
 dialog{
@@ -3256,7 +3256,7 @@ dialog{
 $1Per sconfiggere Ganon,
 le torce devono essere
 accese in senso orario.
-]]
+]],
 }
 
 dialog{
@@ -3270,7 +3270,7 @@ stavo aspettando.
 Il momento della vendetta
 finalmente è arrivato!
 Preparati a morire.
-]]
+]],
 }
 
 dialog{
@@ -3278,7 +3278,7 @@ dialog{
   skip = "all",
   text = [[
 Vai in senso orario.
-]]
+]],
 }
 
 dialog{
@@ -3287,7 +3287,7 @@ dialog{
   text = [[
          Livello 9
    Il Tempio dei Ricordi
-]]
+]],
 }
 
 dialog{
@@ -3308,7 +3308,7 @@ originario.
 Il Regno di Hyrule
 è salvo ancora una 
 volta.
-]]
+]],
 }
 
 dialog{
@@ -3335,7 +3335,7 @@ l'artefatto
 può rompere il sigillo.
 Tu ora capisci perchè
 lo devo distruggere.
-]]
+]],
 }
 
 dialog{
@@ -3350,7 +3350,7 @@ per sempre.
 Il Treforte rimarrà
 sigillato fino alla
 fine del mondo.
-]]
+]],
 }
 
 dialog{
@@ -3369,7 +3369,7 @@ questo regalo...
 
 Tu hai dimostrato
 di esserne degno.
-]]
+]],
 }
 
 dialog{
@@ -3382,7 +3382,7 @@ Sono la Fatina
 Incantatrice. Chiudi 
 gli occhi
 e rilassati.
-]]
+]],
 }
 
 dialog{
@@ -3393,7 +3393,7 @@ dialog{
   text = [[
 Hai trovato una Fatina,
 è stupenda!
-]]
+]],
 }
 
 dialog{
@@ -3404,7 +3404,7 @@ dialog{
 Cosa vuoi fare?
 Recuperare la salute
 Portarla con te
-]]
+]],
 }
 
 dialog{
@@ -3413,7 +3413,7 @@ dialog{
   text = [[
 Non hai una 
 Ampolla Magica vuota!
-]]
+]],
 }
 
 dialog{
@@ -3423,7 +3423,7 @@ dialog{
 Trova quattro Frammenti
 di Cuore per avere 
 un Cuore aggiuntivo.
-]]
+]],
 }
 
 dialog{
@@ -3434,7 +3434,7 @@ Hai trovato quattro
 Frammenti del Cuore.
 Ora ottieni un Cuore 
 extra!
-]]
+]],
 }
 
 dialog{
@@ -3443,7 +3443,7 @@ dialog{
   text = [[
 Ancora due e avrai
 un Cuore aggiuntivo.
-]]
+]],
 }
 
 dialog{
@@ -3452,7 +3452,7 @@ dialog{
   text = [[
 Trovane ancora uno e 
 avrai un altro Cuore.
-]]
+]],
 }
 
 dialog{
@@ -3466,7 +3466,7 @@ d'acqua nella tua
 Ampolla Magica?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -3476,7 +3476,7 @@ dialog{
 C'è un po' d'acqua 
 qui, ma non hai un
 contenitore...
-]]
+]],
 }
 
 dialog{
@@ -3489,7 +3489,7 @@ ma hai bisogno di
 un'Ampolla Magica Vuota
 per portarne un po' 
 con te...
-]]
+]],
 }
 
 dialog{
@@ -3507,7 +3507,7 @@ ma non è possibile!
 Inoltre, alcuni banditi
 hanno saccheggiato la
 Casa delle Monete!
-]]
+]],
 }
 
 dialog{
@@ -3525,7 +3525,7 @@ sud-ovest da qui,
 vicino alla 
 pasticceria.
 Non ti ricordi?
-]]
+]],
 }
 
 dialog{
@@ -3537,7 +3537,7 @@ idea.
 Sahasrahla dovrebbe
 essere in grado
 di aiutarti.
-]]
+]],
 }
 
 dialog{
@@ -3552,7 +3552,7 @@ un cupo sotterraneo
 nella foresta a sud
 del villaggio. Che
 cosa stai aspettando?
-]]
+]],
 }
 
 dialog{
@@ -3564,7 +3564,7 @@ hai trovato! Non è
 ora che cominci a 
 cercare il secondo 
 figlio perduto?
-]]
+]],
 }
 
 dialog{
@@ -3575,7 +3575,7 @@ Questa chiave ti consente
 di entrare nella caverna
 situata a nord 
 del villaggio.
-]]
+]],
 }
 
 dialog{
@@ -3594,7 +3594,7 @@ telepatia?
 È moderna e più adatta
 a questo vecchio
 corpo.
-]]
+]],
 }
 
 dialog{
@@ -3608,7 +3608,7 @@ caverne gemelle a sud,
 e scoprire i segreti 
 che nascondono.
 Fatti forza!
-]]
+]],
 }
 
 dialog{
@@ -3633,7 +3633,7 @@ del villaggio. È un po'
 scontroso ma dovrebbe
 essere in grado di 
 aiutarti.
-]]
+]],
 }
 
 dialog{
@@ -3641,7 +3641,7 @@ dialog{
   skip = "all",
   text = [[
 La porta non si apre...
-]]
+]],
 }
 
 dialog{
@@ -3650,7 +3650,7 @@ dialog{
   text = [[
 $1Hai usato la Chiave
 d'Osso...
-]]
+]],
 }
 
 dialog{
@@ -3669,7 +3669,7 @@ indietro le tre Pietre
 del Fuoco, e solo allora
 la rabbia dell'Inferno
 si calmerà.
-]]
+]],
 }
 
 dialog{
@@ -3693,7 +3693,7 @@ e cerca le tre Pietre
 del Fuoco che ho 
 nascosto nel mio
 oscuro labirinto.
-]]
+]],
 }
 
 dialog{
@@ -3712,7 +3712,7 @@ ciò che desideri.
 Che cosa preferisci?
 I massi neri...
 100 Monete?
-]]
+]],
 }
 
 dialog{
@@ -3726,14 +3726,14 @@ e superare molti
 pericoli.
 Ti manderò tra le
 fiamme dell'inferno...
-]]
+]],
 }
 
 dialog{
   id = "inferno.want_rupees",
   text = [[
 Così sia.
-]]
+]],
 }
 
 dialog{
@@ -3741,7 +3741,7 @@ dialog{
   text = [[
 Ti ho già dato
 questo premio.
-]]
+]],
 }
 
 dialog{
@@ -3764,7 +3764,7 @@ il riflesso Utopico
 di questo mondo.
 Centinaia di anni
 sono trascorsi...
-]]
+]],
 }
 
 dialog{
@@ -3789,7 +3789,7 @@ famiglia reale. Tentò
 di far tornare Ganondorf,
 Re dei Ladri, da
 tempo dimenticato.
-]]
+]],
 }
 
 dialog{
@@ -3804,7 +3804,7 @@ esplorando templi
 perduti, viaggiando 
 nelle valli e
 nelle pianure.
-]]
+]],
 }
 
 dialog{
@@ -3820,7 +3820,7 @@ Ganondorf, che aveva
 costruito una 
 spaventosa piramide
 nelle Terre Dorate.
-]]
+]],
 }
 
 dialog{
@@ -3836,7 +3836,7 @@ discendente dei Sette
 Saggi, lo scacciò
 utilizzando la magia
 del sigillo.
-]]
+]],
 }
 
 dialog{
@@ -3855,7 +3855,7 @@ poteri svanirono.
 Il sigillo dei Sette
 Saggi si indebolì
 nuovamente.
-]]
+]],
 }
 
 dialog{
@@ -3881,14 +3881,14 @@ pace.
 
 E così la nostra 
 avventura comincia...
-]]
+]],
 }
 
 dialog{
   id = "junk_shop.arrows",
   text = [[
 Frecce Normali.
-]]
+]],
 }
 
 dialog{
@@ -3896,7 +3896,7 @@ dialog{
   text = [[
 Otto bombe ad un
 prezzo ridotto.
-]]
+]],
 }
 
 dialog{
@@ -3904,7 +3904,7 @@ dialog{
   text = [[
 Un Cornetto. Per 
 recuperare i tuoi Cuori.
-]]
+]],
 }
 
 dialog{
@@ -3912,7 +3912,7 @@ dialog{
   text = [[
 Un Cuore. Utile se hai
 bisogno di salute.
-]]
+]],
 }
 
 dialog{
@@ -3921,7 +3921,7 @@ dialog{
 Lo Specchio Mistico. Si
 narra che possa invertire
 il flusso dell'acqua!
-]]
+]],
 }
 
 dialog{
@@ -3929,7 +3929,7 @@ dialog{
   text = [[
 Un Cornetto al Cioccolato
 per recuperare i Cuori.
-]]
+]],
 }
 
 dialog{
@@ -3937,7 +3937,7 @@ dialog{
   text = [[
 Un autentico Frammento di
 Cuore.
-]]
+]],
 }
 
 dialog{
@@ -3946,7 +3946,7 @@ dialog{
 Un'offerta speciale su
 una Moneta Rossa, ma è il
 modello del pavimento.
-]]
+]],
 }
 
 dialog{
@@ -3959,7 +3959,7 @@ I migliori oggetti
 della gamma a un prezzo
 straordinario!
 Affrettati!
-]]
+]],
 }
 
 dialog{
@@ -3967,7 +3967,7 @@ dialog{
   text = [[
 Tre mele ad un
 prezzo vantaggioso.
-]]
+]],
 }
 
 dialog{
@@ -3975,7 +3975,7 @@ dialog{
   text = [[
 Dieci frecce, un
 affare a questo prezzo!
-]]
+]],
 }
 
 dialog{
@@ -3984,7 +3984,7 @@ dialog{
 Offerta speciale:
 un'anfora di energia 
 magica.
-]]
+]],
 }
 
 dialog{
@@ -3992,7 +3992,7 @@ dialog{
   text = [[
 Otto bombe. Te le vendo
 a prezzo di costo!
-]]
+]],
 }
 
 dialog{
@@ -4003,7 +4003,7 @@ Lago! I nostri oggetti
 sono i più economici
 della zona.
 Come posso aiutarti?
-]]
+]],
 }
 
 dialog{
@@ -4014,7 +4014,7 @@ Sono io...
 ... Sahasrahla...
 Io devo... parlarti...
 Fai presto, $v...
-]]
+]],
 }
 
 dialog{
@@ -4031,7 +4031,7 @@ utilizzarlo.
 Mi stupirai davvero molto
 se riuscirai a trovare
 un Contenitore di Cuori!
-]]
+]],
 }
 
 dialog{
@@ -4048,7 +4048,7 @@ Se a te non importa,
 rivorrei indietro 
 il mio Boomerang
 adesso.
-]]
+]],
 }
 
 dialog{
@@ -4089,7 +4089,7 @@ di riscattarmi!
 Accetti il mio aiuto?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -4098,14 +4098,14 @@ dialog{
 Grazie. Vieni a trovarmi
 di nuovo se hai ancora
 bisogno del mio aiuto.
-]]
+]],
 }
 
 dialog{
   id = "lyriann_cave.tom.leaving",
   text = [[
 Hey! Aspetta!
-]]
+]],
 }
 
 dialog{
@@ -4126,7 +4126,7 @@ utilizzarlo!
 Torna pure a 
 trovarmi se hai
 bisogno di me.
-]]
+]],
 }
 
 dialog{
@@ -4148,7 +4148,7 @@ ti muovi.
 Che cosa vuoi fare?
 Continuare
 Restituire il Boomerang
-]]
+]],
 }
 
 dialog{
@@ -4168,14 +4168,14 @@ riscatto!
 Accetti il mio aiuto?
 Si
 No
-]]
+]],
 }
 
 dialog{
   id = "lyriann_cave.tom.refuse_help",
   text = [[
 Va bene, come preferisci.
-]]
+]],
 }
 
 dialog{
@@ -4185,7 +4185,7 @@ Se vuoi, posso scortarti
 durante le tue avventure, 
 se mai dovessi aver
 bisogno.
-]]
+]],
 }
 
 dialog{
@@ -4197,7 +4197,7 @@ raccolte di questa
 mattina!
 Ogni mela fa recuperare
 un Cuore.
-]]
+]],
 }
 
 dialog{
@@ -4208,7 +4208,7 @@ Una Borsa per le Bombe
 più grande.
 Davvero molto alla moda
 in questi giorni!
-]]
+]],
 }
 
 dialog{
@@ -4217,7 +4217,7 @@ dialog{
   text = [[
 Riempie un Cuore, usato
 subito dopo l'acquisto.
-]]
+]],
 }
 
 dialog{
@@ -4227,7 +4227,7 @@ dialog{
 Una Lanterna.
 Viaggia attraverso
 luoghi bui!
-]]
+]],
 }
 
 dialog{
@@ -4237,7 +4237,7 @@ dialog{
 Una Faretra più grande.
 Ora puoi trasportare
 più frecce!
-]]
+]],
 }
 
 dialog{
@@ -4246,7 +4246,7 @@ dialog{
   text = [[
 Un nuovo Portamonete per
 trasportare più Monete.
-]]
+]],
 }
 
 dialog{
@@ -4254,7 +4254,7 @@ dialog{
   text = [[
 Benvenuto. Scegli che 
 cosa vuoi comprare.
-]]
+]],
 }
 
 dialog{
@@ -4262,7 +4262,7 @@ dialog{
   skip = "all",
   text = [[
 Il peggio è già passato.
-]]
+]],
 }
 
 dialog{
@@ -4271,7 +4271,7 @@ dialog{
   text = [[
     Monte del Terrore
         --->
-]]
+]],
 }
 
 dialog{
@@ -4281,7 +4281,7 @@ dialog{
 Se stai leggendo questo,
 allora non hai fatto
 molta strada.
-]]
+]],
 }
 
 dialog{
@@ -4291,7 +4291,7 @@ dialog{
 La Pazienza è la virtù
 del vero eroe.
       - Anonimo -
-]]
+]],
 }
 
 dialog{
@@ -4306,7 +4306,7 @@ mondo per combattere il
 male senza sosta,
 permettimi di insegnarti 
 un'antica tecnica ...
-]]
+]],
 }
 
 dialog{
@@ -4318,7 +4318,7 @@ coraggioso.
 Sono la Fatina
 Viaggiatrice. Chiudi gli
 occhi e rilassati.
-]]
+]],
 }
 
 dialog{
@@ -4326,7 +4326,7 @@ dialog{
   text = [[
 Stai piantando il tuo
 Edelwell...
-]]
+]],
 }
 
 dialog{
@@ -4336,7 +4336,7 @@ Colui che pianta un
 Edelwell in cima al
 Monte Beamount, avrà
 una giornata radiosa.
-]]
+]],
 }
 
 dialog{
@@ -4345,7 +4345,7 @@ dialog{
 La caverna di Billy 
 lo Spericolato.
 Vietato entrare!
-]]
+]],
 }
 
 dialog{
@@ -4354,7 +4354,7 @@ dialog{
 Il buco vicino al fiore
 non è così pericoloso
 come sembra...
-]]
+]],
 }
 
 dialog{
@@ -4367,7 +4367,7 @@ mettere in pausa
 il gioco e poi premi C.
 Tieni d'occhio l'icona
 verde!
-]]
+]],
 }
 
 dialog{
@@ -4375,7 +4375,7 @@ dialog{
   text = [[
 - Serratura di Ghiaccio -
 È chiusa!
-]]
+]],
 }
 
 dialog{
@@ -4383,7 +4383,7 @@ dialog{
   text = [[
    - Serratura di Ferro -
 È chiusa!
-]]
+]],
 }
 
 dialog{
@@ -4395,7 +4395,7 @@ dialog{
 
 La miglior selezione
 a prezzi eccezionali!
-]]
+]],
 }
 
 dialog{
@@ -4405,7 +4405,7 @@ dialog{
 Deve esserci un modo
 per attraversare questa
 cascata...
-]]
+]],
 }
 
 dialog{
@@ -4415,14 +4415,14 @@ dialog{
 
      Castello Antico
          <---
-]]
+]],
 }
 
 dialog{
   id = "outside_world.rock_key_required",
   text = [[
 È chiuso!
-]]
+]],
 }
 
 dialog{
@@ -4430,14 +4430,14 @@ dialog{
   text = [[
  - Serratura di Pietra -
 È chiusa!
-]]
+]],
 }
 
 dialog{
   id = "outside_world.surprise_wall_closed",
   text = [[
 È chiusa!
-]]
+]],
 }
 
 dialog{
@@ -4448,7 +4448,7 @@ da mangiare,
 ti farò accedere
 all'altro lato di
 questo muro.
-]]
+]],
 }
 
 dialog{
@@ -4461,7 +4461,7 @@ Dammi una torta di mele!
 Accetti?
 OK
 Non ci pensare
-]]
+]],
 }
 
 dialog{
@@ -4472,7 +4472,7 @@ che ci sia un tesoro
 dietro questo muro, ma
 non ne ho mai trovato 
 nessuno.
-]]
+]],
 }
 
 dialog{
@@ -4482,7 +4482,7 @@ dialog{
 Super! Mangerò la torta
 in segno di 
 apprezzamento.
-]]
+]],
 }
 
 dialog{
@@ -4492,14 +4492,14 @@ dialog{
 Entra e tenta la
 fortuna per vincere
 il tesoro nascosto!
-]]
+]],
 }
 
 dialog{
   id = "outside_world.telepathic_booth_sign",
   text = [[
 Cabina Telepatica
-]]
+]],
 }
 
 dialog{
@@ -4507,14 +4507,14 @@ dialog{
   text = [[
 Fa attenzione, sembra
 pericoloso lì dentro.
-]]
+]],
 }
 
 dialog{
   id = "outside_world.tom_dungeon_1_entrance.hey",
   text = [[
 Hey!
-]]
+]],
 }
 
 dialog{
@@ -4524,14 +4524,14 @@ Hmmm, Suppongo che ci
 sia una scala nascosta 
 qui.
 Diamo un'occhiata...
-]]
+]],
 }
 
 dialog{
   id = "outside_world.tom_dungeon_1_entrance.need_help",
   text = [[
 Ti serve una mano?
-]]
+]],
 }
 
 dialog{
@@ -4540,7 +4540,7 @@ dialog{
 Credo di poterlo 
 spostare.
 $0Voila!
-]]
+]],
 }
 
 dialog{
@@ -4548,7 +4548,7 @@ dialog{
   text = [[
 
         Pasticceria
-]]
+]],
 }
 
 dialog{
@@ -4571,7 +4571,7 @@ Tieni un occhio
 sull'icona per sapere 
 quando puoi interagire 
 con ciò che ti circonda!
-]]
+]],
 }
 
 dialog{
@@ -4582,14 +4582,14 @@ Si dice che ogni
 sotterraneo nasconde 
 un Frammento di Cuore...
 Buffo, non è vero?
-]]
+]],
 }
 
 dialog{
   id = "outside_world.village.clay_key_required",
   text = [[
 È chiuso!
-]]
+]],
 }
 
 dialog{
@@ -4602,7 +4602,7 @@ dirupi?
 Questo potrebbe aiutarti
 a raggiungere luoghi
 di difficile accesso.
-]]
+]],
 }
 
 dialog{
@@ -4621,7 +4621,7 @@ fianco alla Casa delle
 Monete.
 Non so nient'altro, sono
 solo un bambino!
-]]
+]],
 }
 
 dialog{
@@ -4639,7 +4639,7 @@ più in gamba di me.
 
 Magari ti andrà meglio
 rispetto a me!
-]]
+]],
 }
 
 dialog{
@@ -4652,7 +4652,7 @@ cascata dietro
 l'antico castello.
 Pensi che possa essere
 vero?
-]]
+]],
 }
 
 dialog{
@@ -4662,7 +4662,7 @@ dialog{
 Non leggere lettere che
 non sono indirizzate a
 te!
-]]
+]],
 }
 
 dialog{
@@ -4675,7 +4675,7 @@ Aiuto!
 Il villaggio è stato
 circondato da
 mostri!
-]]
+]],
 }
 
 dialog{
@@ -4687,7 +4687,7 @@ ma hai ragione a volere
 almeno uno Scudo 
 con te...
 Fa attenzione!
-]]
+]],
 }
 
 dialog{
@@ -4698,7 +4698,7 @@ succedendo, ma non
 lascierei il paese
 senza una protezione
 se fossi in te.
-]]
+]],
 }
 
 dialog{
@@ -4707,7 +4707,7 @@ dialog{
    - Casa delle Monete -
 Guadagna alcune Monete
 divertendoti!
-]]
+]],
 }
 
 dialog{
@@ -4715,7 +4715,7 @@ dialog{
   text = [[
 
           Negozio
-]]
+]],
 }
 
 dialog{
@@ -4729,7 +4729,7 @@ con l'interfaccia? Lascia
 che ti spieghi
 come funziona.
 Le icone in alto
-]]
+]],
 }
 
 dialog{
@@ -4741,7 +4741,7 @@ spieghi di nuovo, ma
 ascoltami attentamente
 questa volta.
 Le icone in alto
-]]
+]],
 }
 
 dialog{
@@ -4792,7 +4792,7 @@ un gamepad.
 Hai capito tutto?
 Si
 No, non del tutto
-]]
+]],
 }
 
 dialog{
@@ -4804,7 +4804,7 @@ spiegazione!
 Te ne sono davvero grato!
 Ecco, ti meriti questo
 piccolo regalo.
-]]
+]],
 }
 
 dialog{
@@ -4816,7 +4816,7 @@ fresche acque
 ristoratrici con voi.
         Lyriann
     Centro Turistico
-]]
+]],
 }
 
 dialog{
@@ -4824,7 +4824,7 @@ dialog{
   text = [[
         Benvenuti
         a Lyriann
-]]
+]],
 }
 
 dialog{
@@ -4835,14 +4835,14 @@ La terra sembra molto
 fertile qui intorno,
 ma sembra anche
 piuttosto arida...
-]]
+]],
 }
 
 dialog{
   id = "outside_world.warning_holes_sign",
   text = [[
 Attenzione alle buche!
-]]
+]],
 }
 
 dialog{
@@ -4850,7 +4850,7 @@ dialog{
   text = [[
    - Serratura di Legno -
 È chiusa!
-]]
+]],
 }
 
 dialog{
@@ -4859,7 +4859,7 @@ dialog{
 Pozione Blu:
 restituisce la salute
 e il mana! Hehehe...
-]]
+]],
 }
 
 dialog{
@@ -4869,7 +4869,7 @@ Come ad ogni nuovo
 cliente, anche tu vieni
 omaggiato di una Ampolla
 Magica. Hehehe...
-]]
+]],
 }
 
 dialog{
@@ -4878,7 +4878,7 @@ dialog{
 Pozione Verde:
 rigenera la tua barra
 del mana! Hehehe...
-]]
+]],
 }
 
 dialog{
@@ -4888,7 +4888,7 @@ Non puoi acquistare
 questa Pozione senza
 un'Ampolla Magica
 vuota! Hehehe...
-]]
+]],
 }
 
 dialog{
@@ -4897,7 +4897,7 @@ dialog{
 Pozione Rossa:
 restituisce la salute!
 Hehehe...
-]]
+]],
 }
 
 dialog{
@@ -4910,7 +4910,7 @@ Rossa restituisce salute,
 verde restituisce mana,
 blu li restituisce
 entrambi.
-]]
+]],
 }
 
 dialog{
@@ -4926,7 +4926,7 @@ Rossa restituisce salute,
 verde restituisce mana, 
 blu restituisce
 sia salute che mana!
-]]
+]],
 }
 
 dialog{
@@ -4938,14 +4938,14 @@ un forziere!
 Smetti di fissarmi,
 non ti dirò quale
 scegliere!
-]]
+]],
 }
 
 dialog{
   id = "rupee_house.game_1.good_luck",
   text = [[
 Buona fortuna!
-]]
+]],
 }
 
 dialog{
@@ -4964,7 +4964,7 @@ guadagnare più monete!
 Vuoi fare una partita?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -4974,7 +4974,7 @@ Hai già vinto
 non è così? Ci
 siamo rovinati per
 causa tua!
-]]
+]],
 }
 
 dialog{
@@ -4983,7 +4983,7 @@ dialog{
 Dovresti avere più
 passione!
 Vivi a cuor leggero!
-]]
+]],
 }
 
 dialog{
@@ -4996,7 +4996,7 @@ ancora?
 Sono 20 Monete!
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -5006,7 +5006,7 @@ dialog{
 Quanto vuoi puntare?
 5 Monete
 20 Monete
-]]
+]],
 }
 
 dialog{
@@ -5025,7 +5025,7 @@ moltiplicata!
 Vuoi fare una partita?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -5033,7 +5033,7 @@ dialog{
   next = "rupee_house.game_2.playing",
   text = [[
 Grazie!
-]]
+]],
 }
 
 dialog{
@@ -5041,7 +5041,7 @@ dialog{
   text = [[
 La prossima volta 
 allora...
-]]
+]],
 }
 
 dialog{
@@ -5052,7 +5052,7 @@ delle roulette e premi
 il tasto Azione
 per fermarle.
 Buona fortuna!
-]]
+]],
 }
 
 dialog{
@@ -5062,7 +5062,7 @@ Tre monete blu!
 Complimenti, vinci
 7 volte la tua
 puntata!
-]]
+]],
 }
 
 dialog{
@@ -5075,7 +5075,7 @@ tutti i giorni!
 La vincita corrispondente 
 è pari a 15 volte 
 la tua puntata.
-]]
+]],
 }
 
 dialog{
@@ -5084,7 +5084,7 @@ dialog{
 Tre Monete Verdi,
 bravo! Hai vinto 5 volte
 la tua puntata.
-]]
+]],
 }
 
 dialog{
@@ -5097,7 +5097,7 @@ combinazione vincente.
 Vuoi provare di nuovo?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -5107,7 +5107,7 @@ Tre Monete Rosse!!!
 Stupefacente!
 Hai vinto 10 volte
 la tua puntata!
-]]
+]],
 }
 
 dialog{
@@ -5117,7 +5117,7 @@ Tre simboli identici
 , non male!
 Hai vinto 4 volte la
 tua puntata.
-]]
+]],
 }
 
 dialog{
@@ -5129,7 +5129,7 @@ Questa è la miglior
 combinazione possibile...
 Vinci 20 volte la tua
 puntata!
-]]
+]],
 }
 
 dialog{
@@ -5137,7 +5137,7 @@ dialog{
   text = [[
 Si comincia!
 Buona fortuna!
-]]
+]],
 }
 
 dialog{
@@ -5159,7 +5159,7 @@ Sono solo 10 Monete.
 Vuoi fare una partita?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -5167,14 +5167,14 @@ dialog{
   text = [[
 Sono spiacente, hai già 
 vinto a questo gioco!
-]]
+]],
 }
 
 dialog{
   id = "rupee_house.game_3.not_playing",
   text = [[
 La scelta è tua...
-]]
+]],
 }
 
 dialog{
@@ -5187,7 +5187,7 @@ ancora?
 Sono solo 10 Monete.
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -5195,7 +5195,7 @@ dialog{
   text = [[
 Non hai abbastanza
 monete!
-]]
+]],
 }
 
 dialog{
@@ -5203,7 +5203,7 @@ dialog{
   text = [[
 Hey! Devi pagare se vuoi
 fare una partita!
-]]
+]],
 }
 
 dialog{
@@ -5214,7 +5214,7 @@ Aiuto!
 
 La Casa è stata
 derubata!
-]]
+]],
 }
 
 dialog{
@@ -5223,7 +5223,7 @@ dialog{
 I banditi hanno rubato
 le Monete usate per 
 pagare le vincite!
-]]
+]],
 }
 
 dialog{
@@ -5232,7 +5232,7 @@ dialog{
 I banditi si sono diretti
 verso la grotta del 
 fabbro!
-]]
+]],
 }
 
 dialog{
@@ -5246,14 +5246,14 @@ nostro lavoro come
 abbiamo sempre
 fatto. Non so come
 sdebitarmi...
-]]
+]],
 }
 
 dialog{
   id = "rupee_house_broken.thanks_again",
   text = [[
 Grazie ancora!
-]]
+]],
 }
 
 dialog{
@@ -5292,7 +5292,7 @@ tale potere!
 Posso sentire il coraggio
 pulsare in te, $v.
 Devi salvare i figli e
-]]
+]],
 }
 
 dialog{
@@ -5305,7 +5305,7 @@ dialog{
 proteggere il Treforte!
 Puoi contare su di me!
 No grazie...
-]]
+]],
 }
 
 dialog{
@@ -5320,7 +5320,7 @@ unica speranza
 di salvare il regno...
 D'accordo
 Non ci pensare
-]]
+]],
 }
 
 dialog{
@@ -5330,7 +5330,7 @@ dialog{
 Grazie ragazzo
 coraggioso. Noi riponiamo
 la nostra fiducia in te!
-]]
+]],
 }
 
 dialog{
@@ -5341,7 +5341,7 @@ dialog{
 Ho fiducia in te.
 Il tuo coraggio e la tua
 saggezza ti guideranno.
-]]
+]],
 }
 
 dialog{
@@ -5357,7 +5357,7 @@ viaggio, torna nella mia
 grotta, forse potrei 
 avere dei nuovi oggetti
 da darti.
-]]
+]],
 }
 
 dialog{
@@ -5368,7 +5368,7 @@ La porta è congelata.
 Ci dev'essere un modo
 per sciogliere il
 ghiaccio!
-]]
+]],
 }
 
 dialog{
@@ -5379,7 +5379,7 @@ La porta è congelata?
 Prova a sciogliere il
 ghiaccio con un po'
 d'acqua.
-]]
+]],
 }
 
 dialog{
@@ -5389,7 +5389,7 @@ Ecco un piccolo oggetto
 che potrebbe esserti
 d'aiuto lungo il tuo
 cammino.
-]]
+]],
 }
 
 dialog{
@@ -5403,7 +5403,7 @@ a est nel villaggio.
 Lei è una vecchia amica
 e conosce tutto di 
 questa zona.
-]]
+]],
 }
 
 dialog{
@@ -5417,7 +5417,7 @@ Memorie di Sahasrahla.
 Le vuoi leggere?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -5425,7 +5425,7 @@ dialog{
   text = [[
 Sono davvero troppo
 lunghe!
-]]
+]],
 }
 
 dialog{
@@ -5438,7 +5438,7 @@ che potrebbero esserti
 utili. Niente di speciale
 suppongo, è un po' che
 non torno là...
-]]
+]],
 }
 
 dialog{
@@ -5448,7 +5448,7 @@ Come preferisci, ma non
 tornare qui frignando
 se ti trovi
 in grossi guai.
-]]
+]],
 }
 
 dialog{
@@ -5458,7 +5458,7 @@ Stai cercando di
 sbarazzarti di me?
 Non hai abbastanza
 Monete!
-]]
+]],
 }
 
 dialog{
@@ -5469,7 +5469,7 @@ con la spada, premi C.
 Oppure tieni premuto 
 il tasto C per sferrare 
 un attacco rotante!
-]]
+]],
 }
 
 dialog{
@@ -5479,7 +5479,7 @@ Non permetterti di
 rompere la mia Spada
 perchè non te ne forgerò
 un'altra!
-]]
+]],
 }
 
 dialog{
@@ -5498,7 +5498,7 @@ solo con quello scudo.
 Allora, ti interessa?
 Si
 No
-]]
+]],
 }
 
 dialog{
@@ -5506,7 +5506,7 @@ dialog{
   text = [[
 
           Destra
-]]
+]],
 }
 
 dialog{
@@ -5514,7 +5514,7 @@ dialog{
   text = [[
 
            Su
-]]
+]],
 }
 
 dialog{
@@ -5522,7 +5522,7 @@ dialog{
   text = [[
 
           Sinistra
-]]
+]],
 }
 
 dialog{
@@ -5530,7 +5530,7 @@ dialog{
   text = [[
 
           Giù
-]]
+]],
 }
 
 dialog{
@@ -5543,7 +5543,7 @@ Sono Nonna Lyly!
 Ma sei sicuro di aver
 trovato tutto quanto
 nella Caverna del Roc?
-]]
+]],
 }
 
 dialog{
@@ -5558,7 +5558,7 @@ Spericolato? Sembra che
 sia tornato sano e salvo
 dal suo viaggio fino al
 Monte del Terrore!
-]]
+]],
 }
 
 dialog{
@@ -5575,7 +5575,7 @@ Si dice che il
 Potente Arbror abbia 
 infestato le zone
 allagate dal fiume.
-]]
+]],
 }
 
 dialog{
@@ -5588,7 +5588,7 @@ Sono Nonna Lyly!
 Dovresti far visita a 
 Sahasrahla, dovrebbe
 avere qualcosa per te.
-]]
+]],
 }
 
 dialog{
@@ -5603,7 +5603,7 @@ le caverne gemelle a sud
 della foresta intricata
 nascondono un 
 tesoro importante...
-]]
+]],
 }
 
 dialog{
@@ -5612,7 +5612,7 @@ dialog{
   text = [[
 Pronto? ... Pronto? ...
 Qualcuno mi sente? ...
-]]
+]],
 }
 
 dialog{
@@ -5635,7 +5635,7 @@ solo armi per la
 sopravvivenza, stanno 
 facendo un sacco di
 soldi!
-]]
+]],
 }
 
 dialog{
@@ -5645,7 +5645,7 @@ dialog{
 Deve esserci un modo
 per accendere 
 questa torcia...
-]]
+]],
 }
 
 dialog{
@@ -5659,7 +5659,7 @@ farà recuperare un Cuore.
 Che cosa vuoi fare?
 Mangia una mela
 Niente
-]]
+]],
 }
 
 dialog{
@@ -5673,7 +5673,7 @@ riempita con acqua.
 Vuoi rovesciarla?
 Rovescia l'acqua
 No
-]]
+]],
 }
 
 dialog{
@@ -5687,7 +5687,7 @@ recuperare sette cuori.
 Che cosa vuoi fare?
 Mangiane uno
 Niente
-]]
+]],
 }
 
 dialog{
@@ -5701,6 +5701,6 @@ tre cuori.
 Che cosa vuoi fare?
 Mangiane uno
 Niente
-]]
+]],
 }
 

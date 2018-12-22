@@ -1,17 +1,24 @@
-zsdx 1.11.0 (2016-07-27)
+Zelda Mystery of Solarus DX 1.12.0 (2018-12-22)
+
+* Upgrade to Solarus 1.6.
+* Add the Solarus team logo.
+* Change the sound of the Solarus logo.
+* Fix typos in French dialogs (thanks Renkineko).
+
+Zelda Mystery of Solarus DX 1.11.0 (2016-07-27)
 
 * Upgrade to Solarus 1.5.
 * Fix wrong layer when leaving dungeon 10.
 * Dungeon 2: Fix sound played twice when activating the statues.
-* Dungeon 9: fix geting back to room entrance when touching spikes.
+* Dungeon 9: fix getting back to room entrance when touching spikes.
 * English dialogs: rename Pegasus Shoes to Pegasus Boots.
 
-zsdx 1.10.3 (2015-12-20)
+Zelda Mystery of Solarus DX 1.10.3 (2015-12-20)
 
 * Fix Italian dialogs exceeding the dialog box (thanks Marco).
 * Fix game-over stopped sometimes using a workaround (#87).
 
-zsdx 1.10.2 (2015-11-22)
+Zelda Mystery of Solarus DX 1.10.2 (2015-11-22)
 
 * Upgrade to Solarus 1.4.5.
 * Add Italian translation (thanks Marco).
@@ -23,11 +30,11 @@ zsdx 1.10.2 (2015-11-22)
 * Dungeon 10: fix evil tiles door not opening sometimes (#94).
 * End screen: fix freezing the hero (#109).
 
-zsdx 1.10.1 (2015-05-09)
+Zelda Mystery of Solarus DX 1.10.1 (2015-05-09)
 
 * Upgrade to Solarus 1.4.1.
 
-zsdx 1.10.0 (2015-05-02)
+Zelda Mystery of Solarus DX 1.10.0 (2015-05-02)
 
 * Upgrade to Solarus 1.4.0.
 * Fix a minor tile issue in dungeon 8 entrance.
@@ -38,7 +45,7 @@ zsdx 1.10.0 (2015-05-02)
 * Dungeon 5: fix a missing door on the minimap (#99).
 * Dungeon 9: don't allow to skip the boss hint dialog (#93).
 
-zsdx 1.9.0 (2014-08-21)
+Zelda Mystery of Solarus DX 1.9.0 (2014-08-21)
 
 * Use Solarus 1.3.0.
 * New world minimap. By Neovyse.
@@ -46,21 +53,21 @@ zsdx 1.9.0 (2014-08-21)
 * Fix direction of vertical movement on joypad in menus (#85). By xethm55.
 * Clarify license of some files.
 
-zsdx 1.8.0 (2014-05-06)
+Zelda Mystery of Solarus DX 1.8.0 (2014-05-06)
 
 * Use solarus 1.2.0.
 * Replace fixed8.fon by a TTF font due to an SDL2 regression (#59).
 * Switch fullscreen also with F11.
 * Dungeon 3 5F: fix falling too early in the hole due to incorrect layers.
 
-zsdx-1.7.1 (2013-12-01)
+Zelda Mystery of Solarus DX 1.7.1 (2013-12-01)
 
 * Use Solarus 1.1.1.
 * Fix the heart meter not updated until the first save/reload (#67).
 * Fix wrong teletransportation in Billy's cave after falling in a hole (#66).
 * Fix the debugging console no longer working after using F1, F2 or F3.
 
-zsdx-1.7.0 (2013-10-13)
+Zelda Mystery of Solarus DX 1.7.0 (2013-10-13)
 
 * Use solarus 1.1.0.
 * Add simplified Chinese and traditional Chinese translations (beta).
@@ -79,16 +86,16 @@ zsdx-1.7.0 (2013-10-13)
 * Dungeon 2 boss: fix tile disappearing issue (#14).
 * Dungeon 9 2F: fix a minor graphical issue.
 
-zsdx-1.6.2 (2013-06-25)
+Zelda Mystery of Solarus DX 1.6.2 (2013-06-25)
 
 * Use solarus 1.0.4.
 * Fix line errors in English dialogs.
 
-zsdx-1.6.1 (2013-06-25)
+Zelda Mystery of Solarus DX 1.6.1 (2013-06-25)
 
 * Use solarus 1.0.3.
 
-zsdx-1.6 (2013-06-22)
+Zelda Mystery of Solarus DX 1.6 (2013-06-22)
 
 * Use solarus 1.0.2.
 * Improve the English translation.
@@ -106,7 +113,7 @@ zsdx-1.6 (2013-06-22)
 * Dungeon 8 B1: fix a minor tile error (#2).
 * Dungeon 8 B3: fix a minor tile error.
 
-zsdx-1.5.2 (2013-05-08)
+Zelda Mystery of Solarus DX 1.5.2 (2013-05-08)
 
 * Use solarus 0.9.3.
 * German dialogs available.
@@ -119,7 +126,7 @@ zsdx-1.5.2 (2013-05-08)
 * Dungeon 5: fix an error the Spanish translation (thanks Joan).
 * Fix the CMake script that creates the zip archive (#1).
 
-zsdx-1.5.1 (2012-05-20)
+Zelda Mystery of Solarus DX 1.5.1 (2012-05-20)
 
 * Spanish dialogs available (beta)
 * English dialogs: fix dialogs with questions
@@ -136,18 +143,18 @@ zsdx-1.5.1 (2012-05-20)
 * Savegame variable 0 was used twice (no consequence)
 * Always set the variant of _none and _random treasures to 1
 
-zsdx-1.5.0 (2012-04-03)
+Zelda Mystery of Solarus DX 1.5.0 (2012-04-03)
 
 * Use solarus 0.9.2
 * English translation available
 * Dungeon 5: the piece of heart could be obtained very easily with the sword
 * Dungeon 5: a black guard was never seeing the hero
 
-zsdx-1.4.1 (2012-02-18)
+Zelda Mystery of Solarus DX 1.4.1 (2012-02-18)
 
 * Dungeon 5: fix wrong coordinates of two blocks saved
 
-zsdx-1.4 (2012-02-12)
+Zelda Mystery of Solarus DX 1.4 (2012-02-12)
 
 * Use solarus-0.9.1
 * The Pegasus Shoes can now be used with the action key
@@ -188,7 +195,7 @@ zsdx-1.4 (2012-02-12)
 * Smith cave: change the price of the sword (75 instead of 80)
 * Various minor improvements
 
-zsdx-1.3 (2011-12-23)
+Zelda Mystery of Solarus DX 1.3 (2011-12-23)
 
 * Use solarus-0.9.0 (changelogs of solarus and zsdx will now be separated)
 * Dungeon 7: fix a possible crash with statues and pikes
@@ -196,7 +203,7 @@ zsdx-1.3 (2011-12-23)
 * Don't play the sound of pikes too frequently when they don't have much space
 * After the boss of dungeon 10, re-enable enemies of the map
 
-zsdx-1.2 (2011-12-21)
+Zelda Mystery of Solarus DX 1.2 (2011-12-21)
 
 * Dungeon 9: fix a crash with two enemies that appear on a platform
 * Attempt to fix a crash with mummies by removing a useless and buggy feature
@@ -205,7 +212,7 @@ zsdx-1.2 (2011-12-21)
 * Dungeon 1: fix the fixed minillosaur eggs
 * Small map improvements
 
-zsdx-1.1 (2011-12-19)
+Zelda Mystery of Solarus DX 1.1 (2011-12-19)
 
 * Fix a crash when jumping from grass into a hole
 * Fix a possible crash when buying potions
@@ -220,7 +227,7 @@ zsdx-1.1 (2011-12-19)
 * Minor map improvements
 * Update copyright info
 
-zsdx-1.0 (2011-12-16)
+Zelda Mystery of Solarus DX 1.0 (2011-12-16)
 
 * Initial release of Zelda Mystery of Solarus DX
 

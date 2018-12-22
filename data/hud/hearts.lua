@@ -23,6 +23,7 @@ function hearts:initialize(game)
   self.nb_max_hearts_displayed = game:get_max_life() / 4
   self.nb_current_hearts_displayed = game:get_life()
   self.all_hearts_img = sol.surface.create("hud/hearts.png")
+  self:rebuild_surface()
 end
 
 function hearts:on_started()
