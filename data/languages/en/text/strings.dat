@@ -1,7 +1,7 @@
 text{ key = "map.caption.world_map", value = "World Map" }
 text{ key = "map.caption.dungeon_name_1", value = "Forest Dungeon" }
 text{ key = "map.caption.dungeon_name_2", value = "Roc's Cavern" }
-text{ key = "map.caption.dungeon_name_3", value = "Master Arbor's$Den" }
+text{ key = "map.caption.dungeon_name_3", value = "Master Arbror's$Den" }
 text{ key = "map.caption.dungeon_name_4", value = "Beaumont's Palace" }
 text{ key = "map.caption.dungeon_name_5", value = "Ancient Castle" }
 text{ key = "map.caption.dungeon_name_6", value = "Inferno's Maze" }
