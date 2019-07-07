@@ -20,7 +20,7 @@ Das ist der Eingang
 zum Versteck des
 Bosses!
 Du brauchst den
-Masterschlüssel, um
+Meisterschlüssel, um
 ihn zu öffnen.
 ]]
 }
@@ -62,7 +62,7 @@ dialog{
   skip = "all",
   text = [[
 Das ist ein Kristall-
-schalter. Treffe ihn
+schalter. Triff ihn
 mit etwas...
 ]]
 }
@@ -962,12 +962,12 @@ dialog{
   id = "_treasure.boss_key.1",
   icon = "74",
   text = [[
-Du hast den Master-
+Du hast den Meister-
 schlüssel gefunden!
 Du kannst nun in das
-Versteck des Herrn
-dieses Dungeons
-vordringen.
+Versteck des
+Bosses dieses
+Dungeons vordringen.
 ]]
 }
 
@@ -1349,8 +1349,8 @@ Karte Deine
 Position, die des
 Bosses und die
 Standorte der
-Truhen. Es lebe der
-Fortschritt!
+Truhen. Es geht
+voran!
 ]]
 }
 
@@ -1570,8 +1570,8 @@ dialog{
   id = "_treasure.magic_bar.2",
   icon = "99",
   text = [[
-Du hast die 
-Magiehälfte 
+Du hast den halben 
+Magiezähler 
 gefunden! Deine
 magische Energie
 hat sich verdoppelt.
@@ -1631,7 +1631,7 @@ dialog{
 Du hast den Zauber-
 spiegel gefunden!$0
 Die geheimnisvollen
-Kräften des Spiegels
+Kräfte des Spiegels
 werden sicherlich
 von Nutzen sein...
 ]]
@@ -3314,7 +3314,7 @@ dialog{
   skip = "current",
   text = [[
       8. Dungeon
-      Dungeon der
+      Kerker der
       Felsnadeln      
 ]]
 }
