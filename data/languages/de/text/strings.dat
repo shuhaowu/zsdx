@@ -60,7 +60,7 @@ text{ key = "map.caption.dungeon_name_4", value = "Schloss Schönberg" }
 text{ key = "map.caption.dungeon_name_5", value = "Altes Schloss$von Hyrule" }
 text{ key = "map.caption.dungeon_name_6", value = "Höhle des Inferno" }
 text{ key = "map.caption.dungeon_name_7", value = "Eistempel" }
-text{ key = "map.caption.dungeon_name_8", value = "Dungeon der$Felsnadeln" }
+text{ key = "map.caption.dungeon_name_8", value = "Kerker der$Felsnadeln" }
 text{ key = "map.caption.dungeon_name_9", value = "Tempel der$Erinnerung" }
 text{ key = "map.caption.world_map", value = "Weltkarte" }
 text{ key = "options.caption.press_action_change_mode", value = "Auf Aktion drücken, um$den Modus zu wechseln" }
