@@ -1,4 +1,4 @@
-Zelda Mystery of Solarus DX 1.12.1 (in progress)
+Zelda Mystery of Solarus DX 1.12.1 (2019-08-10)
 
 * Fix typo in English texts (#128).
 * Fix mistakes in German texts (#137).

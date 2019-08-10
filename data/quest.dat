@@ -8,6 +8,7 @@ A direct sequel to Zelda: A Link to the Past on the SNES, using the same graphic
 This is first quest made with the Solarus engine and in fact, Solarus was primarily designed for this game.]],
   author = "Christopho",
   quest_version = "1.12.1",
+  release_date = "20190810",
   website = "http://www.solarus-games.org",
   normal_quest_size = "320x240",
   min_quest_size = "320x200",
