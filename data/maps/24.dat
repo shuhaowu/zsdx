@@ -4786,9 +4786,9 @@ door{
 teletransporter{
   name = "teletransporter",
   layer = 1,
-  x = 640,
+  x = 0,
   y = -16,
-  width = 16,
+  width = 1032,
   height = 16,
   transition = "scrolling",
   destination_map = "27",
