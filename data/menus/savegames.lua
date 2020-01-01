@@ -93,6 +93,9 @@ function savegame_menu:on_joypad_button_pressed(button)
 
   local handled = true
   if not self.finished then
+    if (sol.main.get_os() == "NintendoSwitch" and button == 4) then
+      return self:on_key_pressed("escape")
+    end
     -- Phase-specific joypad_button_pressed method.
     local method_name = "joypad_button_pressed_phase_" .. self.phase
     handled = self[method_name](self, button)
@@ -404,6 +407,9 @@ function savegame_menu:key_pressed_phase_select_file(key)
 end
 
 function savegame_menu:joypad_button_pressed_phase_select_file(button)
+  if (sol.main.get_os() == "NintendoSwitch" and button ~= 0) then
+    return false
+  end
 
   return self:key_pressed_phase_select_file("space")
 end
@@ -480,6 +486,9 @@ function savegame_menu:key_pressed_phase_erase_file(key)
 end
 
 function savegame_menu:joypad_button_pressed_phase_erase_file(button)
+  if (sol.main.get_os() == "NintendoSwitch" and button ~= 0) then
+    return false
+  end
 
   return self:key_pressed_phase_erase_file("space")
 end
@@ -552,6 +561,9 @@ function savegame_menu:key_pressed_phase_confirm_erase(key)
 end
 
 function savegame_menu:joypad_button_pressed_phase_confirm_erase(button)
+  if (sol.main.get_os() == "NintendoSwitch" and button ~= 0) then
+    return false
+  end
 
   return self:key_pressed_phase_confirm_erase("space")
 end
@@ -691,6 +703,10 @@ function savegame_menu:key_pressed_phase_options(key)
 end
 
 function savegame_menu:joypad_button_pressed_phase_options(button)
+  if (sol.main.get_os() == "NintendoSwitch" and button ~= 0) then
+    return false
+  end
+
   return self:key_pressed_phase_options("space")
 end
 
@@ -912,6 +928,9 @@ function savegame_menu:key_pressed_phase_choose_name(key)
 end
 
 function savegame_menu:joypad_button_pressed_phase_choose_name(button)
+  if (sol.main.get_os() == "NintendoSwitch" and button ~= 0) then
+    return false
+  end
 
   return self:key_pressed_phase_choose_name("space")
 end

@@ -200,7 +200,7 @@ function title_screen:on_key_pressed(key)
 end
 
 function title_screen:on_joypad_button_pressed(button)
-
+  print("Joypad button pressed in title")
   return self:try_finish_title()
 end
 

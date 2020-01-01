@@ -160,8 +160,12 @@ function language_menu:direction_pressed(direction8)
 end
 
 function language_menu:on_joypad_button_pressed(button)
-
-  return self:on_key_pressed("space")
+  -- button=4 => SDL_CONTROLLER_BUTTON_BACK => MINUS button on the switch
+  if (sol.main.get_os() == "NintendoSwitch" and button == 4) then
+    return self:on_key_pressed("escape")
+  else
+    return self:on_key_pressed("space")
+  end
 end
 
 function language_menu:set_cursor_position(cursor_position)
